@@ -1,0 +1,16 @@
+{
+    "name": "harah/qr-restaurant",
+    "description": "QR Code Restaurant Ordering System",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "cboden/ratchet": "^0.4.4"
+    },
+    "authors": [
+        {
+            "name": "Harah",
+            "email": "support@harah.com"
+        }
+    ],
+    "minimum-stability": "stable"
+} 

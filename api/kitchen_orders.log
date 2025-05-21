@@ -1,0 +1,2714 @@
+[2025-05-16 04:09:09] Kitchen orders API called
+[2025-05-16 04:09:09] Found 1 orders
+[2025-05-16 04:09:09] Processing order #38
+[2025-05-16 04:09:09] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.product_code' in 'field list'
+[2025-05-16 04:09:39] Kitchen orders API called
+[2025-05-16 04:09:39] Found 1 orders
+[2025-05-16 04:09:39] Processing order #38
+[2025-05-16 04:09:39] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.product_code' in 'field list'
+[2025-05-16 04:09:45] Kitchen orders API called
+[2025-05-16 04:09:45] Found 1 orders
+[2025-05-16 04:09:45] Processing order #38
+[2025-05-16 04:09:45] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.product_code' in 'field list'
+[2025-05-16 04:10:09] Kitchen orders API called
+[2025-05-16 04:10:09] Found 1 orders
+[2025-05-16 04:10:09] Processing order #38
+[2025-05-16 04:10:09] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.product_code' in 'field list'
+[2025-05-16 04:10:39] Kitchen orders API called
+[2025-05-16 04:10:39] Found 1 orders
+[2025-05-16 04:10:39] Processing order #38
+[2025-05-16 04:10:39] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.product_code' in 'field list'
+[2025-05-16 04:10:45] Kitchen orders API called
+[2025-05-16 04:10:45] Found 1 orders
+[2025-05-16 04:10:45] Processing order #38
+[2025-05-16 04:10:45] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.product_code' in 'field list'
+[2025-05-16 04:11:10] Kitchen orders API called
+[2025-05-16 04:11:10] Found 1 orders
+[2025-05-16 04:11:10] Processing order #38
+[2025-05-16 04:11:10] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.product_code' in 'field list'
+[2025-05-16 04:11:29] Kitchen orders API called
+[2025-05-16 04:11:29] Found 1 orders
+[2025-05-16 04:11:29] Processing order #38
+[2025-05-16 04:11:29] Found 1 items for order #38
+[2025-05-16 04:11:39] Kitchen orders API called
+[2025-05-16 04:11:39] Found 1 orders
+[2025-05-16 04:11:39] Processing order #38
+[2025-05-16 04:11:39] Found 1 items for order #38
+[2025-05-16 04:11:46] Kitchen orders API called
+[2025-05-16 04:11:46] Found 0 orders
+[2025-05-16 04:11:50] Kitchen orders API called
+[2025-05-16 04:11:50] Found 0 orders
+[2025-05-16 04:11:52] Kitchen orders API called
+[2025-05-16 04:11:52] Found 0 orders
+[2025-05-16 04:12:09] Kitchen orders API called
+[2025-05-16 04:12:09] Found 0 orders
+[2025-05-16 04:12:22] Kitchen orders API called
+[2025-05-16 04:12:22] Found 0 orders
+[2025-05-16 04:12:25] Kitchen orders API called
+[2025-05-16 04:12:25] Found 0 orders
+[2025-05-16 04:12:39] Kitchen orders API called
+[2025-05-16 04:12:39] Found 0 orders
+[2025-05-16 04:12:55] Kitchen orders API called
+[2025-05-16 04:12:55] Found 0 orders
+[2025-05-16 04:13:25] Kitchen orders API called
+[2025-05-16 04:13:25] Found 0 orders
+[2025-05-16 04:13:55] Kitchen orders API called
+[2025-05-16 04:13:55] Found 0 orders
+[2025-05-16 04:14:39] Kitchen orders API called
+[2025-05-16 04:14:39] Found 0 orders
+[2025-05-16 04:29:26] Kitchen orders API called
+[2025-05-16 04:29:26] Found 0 orders
+[2025-05-16 04:29:37] Kitchen orders API called
+[2025-05-16 04:29:37] Found 0 orders
+[2025-05-16 04:29:37] Kitchen orders API called
+[2025-05-16 04:29:37] Found 0 orders
+[2025-05-16 04:29:38] Kitchen orders API called
+[2025-05-16 04:29:38] Found 0 orders
+[2025-05-16 04:29:38] Kitchen orders API called
+[2025-05-16 04:29:38] Found 0 orders
+[2025-05-16 04:29:38] Kitchen orders API called
+[2025-05-16 04:29:38] Found 0 orders
+[2025-05-16 04:29:38] Kitchen orders API called
+[2025-05-16 04:29:38] Found 0 orders
+[2025-05-16 04:29:39] Kitchen orders API called
+[2025-05-16 04:29:39] Found 0 orders
+[2025-05-16 04:29:39] Kitchen orders API called
+[2025-05-16 04:29:39] Found 0 orders
+[2025-05-16 04:29:39] Kitchen orders API called
+[2025-05-16 04:29:39] Found 0 orders
+[2025-05-16 04:29:39] Kitchen orders API called
+[2025-05-16 04:29:39] Found 0 orders
+[2025-05-16 04:29:40] Kitchen orders API called
+[2025-05-16 04:29:40] Found 0 orders
+[2025-05-16 04:29:56] Kitchen orders API called
+[2025-05-16 04:29:56] Found 0 orders
+[2025-05-16 04:30:26] Kitchen orders API called
+[2025-05-16 04:30:26] Found 0 orders
+[2025-05-16 04:30:56] Kitchen orders API called
+[2025-05-16 04:30:56] Found 0 orders
+[2025-05-16 04:31:26] Kitchen orders API called
+[2025-05-16 04:31:26] Found 0 orders
+[2025-05-16 04:32:38] Kitchen orders API called
+[2025-05-16 04:32:38] Found 0 orders
+[2025-05-16 04:32:56] Kitchen orders API called
+[2025-05-16 04:32:56] Found 0 orders
+[2025-05-16 04:32:58] Kitchen orders API called
+[2025-05-16 04:32:58] Found 0 orders
+[2025-05-16 04:33:26] Kitchen orders API called
+[2025-05-16 04:33:26] Found 1 orders
+[2025-05-16 04:33:26] Processing order #39
+[2025-05-16 04:33:26] Found 1 items for order #39
+[2025-05-16 04:33:28] Kitchen orders API called
+[2025-05-16 04:33:28] Found 1 orders
+[2025-05-16 04:33:28] Processing order #39
+[2025-05-16 04:33:28] Found 1 items for order #39
+[2025-05-16 04:33:58] Kitchen orders API called
+[2025-05-16 04:33:58] Found 1 orders
+[2025-05-16 04:33:58] Processing order #39
+[2025-05-16 04:33:58] Found 1 items for order #39
+[2025-05-16 04:34:25] Kitchen orders API called
+[2025-05-16 04:34:25] Found 0 orders
+[2025-05-16 04:34:27] Kitchen orders API called
+[2025-05-16 04:34:27] Found 0 orders
+[2025-05-16 04:34:57] Kitchen orders API called
+[2025-05-16 04:34:57] Found 0 orders
+[2025-05-16 04:35:27] Kitchen orders API called
+[2025-05-16 04:35:27] Found 0 orders
+[2025-05-16 04:35:57] Kitchen orders API called
+[2025-05-16 04:35:57] Found 0 orders
+[2025-05-16 04:36:27] Kitchen orders API called
+[2025-05-16 04:36:27] Found 0 orders
+[2025-05-16 04:36:57] Kitchen orders API called
+[2025-05-16 04:36:57] Found 0 orders
+[2025-05-16 04:37:27] Kitchen orders API called
+[2025-05-16 04:37:27] Found 0 orders
+[2025-05-16 04:37:57] Kitchen orders API called
+[2025-05-16 04:37:57] Found 0 orders
+[2025-05-16 04:38:27] Kitchen orders API called
+[2025-05-16 04:38:27] Found 0 orders
+[2025-05-16 04:38:57] Kitchen orders API called
+[2025-05-16 04:38:57] Found 0 orders
+[2025-05-16 04:39:27] Kitchen orders API called
+[2025-05-16 04:39:27] Found 0 orders
+[2025-05-16 04:39:57] Kitchen orders API called
+[2025-05-16 04:39:57] Found 0 orders
+[2025-05-16 04:40:27] Kitchen orders API called
+[2025-05-16 04:40:27] Found 0 orders
+[2025-05-16 04:40:57] Kitchen orders API called
+[2025-05-16 04:40:57] Found 0 orders
+[2025-05-16 04:41:28] Kitchen orders API called
+[2025-05-16 04:41:28] Found 0 orders
+[2025-05-16 04:41:58] Kitchen orders API called
+[2025-05-16 04:41:58] Found 0 orders
+[2025-05-16 04:42:28] Kitchen orders API called
+[2025-05-16 04:42:28] Found 0 orders
+[2025-05-16 04:42:58] Kitchen orders API called
+[2025-05-16 04:42:58] Found 0 orders
+[2025-05-16 04:43:28] Kitchen orders API called
+[2025-05-16 04:43:28] Found 0 orders
+[2025-05-16 04:43:57] Kitchen orders API called
+[2025-05-16 04:43:57] Found 0 orders
+[2025-05-16 04:44:28] Kitchen orders API called
+[2025-05-16 04:44:28] Found 0 orders
+[2025-05-16 04:44:58] Kitchen orders API called
+[2025-05-16 04:44:58] Found 0 orders
+[2025-05-16 04:45:28] Kitchen orders API called
+[2025-05-16 04:45:28] Found 0 orders
+[2025-05-16 04:45:58] Kitchen orders API called
+[2025-05-16 04:45:58] Found 0 orders
+[2025-05-16 04:46:27] Kitchen orders API called
+[2025-05-16 04:46:27] Found 0 orders
+[2025-05-16 04:46:58] Kitchen orders API called
+[2025-05-16 04:46:58] Found 0 orders
+[2025-05-16 04:47:28] Kitchen orders API called
+[2025-05-16 04:47:28] Found 0 orders
+[2025-05-16 04:47:58] Kitchen orders API called
+[2025-05-16 04:47:58] Found 0 orders
+[2025-05-16 04:48:28] Kitchen orders API called
+[2025-05-16 04:48:28] Found 0 orders
+[2025-05-16 04:48:51] Kitchen orders API called
+[2025-05-16 04:48:51] Found 0 orders
+[2025-05-16 04:48:53] Kitchen orders API called
+[2025-05-16 04:48:53] Found 0 orders
+[2025-05-16 04:49:22] Kitchen orders API called
+[2025-05-16 04:49:22] Found 1 orders
+[2025-05-16 04:49:22] Processing order #40
+[2025-05-16 04:49:22] Found 1 items for order #40
+[2025-05-16 04:49:23] Kitchen orders API called
+[2025-05-16 04:49:23] Found 1 orders
+[2025-05-16 04:49:23] Processing order #40
+[2025-05-16 04:49:23] Found 1 items for order #40
+[2025-05-16 04:49:46] Kitchen orders API called
+[2025-05-16 04:49:46] Found 1 orders
+[2025-05-16 04:49:46] Processing order #40
+[2025-05-16 04:49:46] Found 1 items for order #40
+[2025-05-16 04:49:50] Kitchen orders API called
+[2025-05-16 04:49:50] Found 1 orders
+[2025-05-16 04:49:50] Processing order #40
+[2025-05-16 04:49:50] Found 1 items for order #40
+[2025-05-21 03:08:06] Kitchen orders API called
+[2025-05-21 03:08:06] Found 1 orders
+[2025-05-21 03:08:06] Processing order #40
+[2025-05-21 03:08:06] Found 1 items for order #40
+[2025-05-21 03:08:11] Kitchen orders API called
+[2025-05-21 03:08:11] Found 1 orders
+[2025-05-21 03:08:11] Processing order #40
+[2025-05-21 03:08:11] Found 1 items for order #40
+[2025-05-21 03:08:16] Kitchen orders API called
+[2025-05-21 03:08:16] Found 1 orders
+[2025-05-21 03:08:16] Processing order #40
+[2025-05-21 03:08:16] Found 1 items for order #40
+[2025-05-21 03:08:19] Kitchen orders API called
+[2025-05-21 03:08:19] Found 1 orders
+[2025-05-21 03:08:19] Processing order #40
+[2025-05-21 03:08:19] Found 1 items for order #40
+[2025-05-21 03:08:24] Kitchen orders API called
+[2025-05-21 03:08:24] Found 1 orders
+[2025-05-21 03:08:24] Processing order #40
+[2025-05-21 03:08:24] Found 1 items for order #40
+[2025-05-21 03:08:29] Kitchen orders API called
+[2025-05-21 03:08:29] Found 1 orders
+[2025-05-21 03:08:29] Processing order #40
+[2025-05-21 03:08:29] Found 1 items for order #40
+[2025-05-21 03:08:34] Kitchen orders API called
+[2025-05-21 03:08:34] Found 1 orders
+[2025-05-21 03:08:34] Processing order #40
+[2025-05-21 03:08:34] Found 1 items for order #40
+[2025-05-21 03:08:39] Kitchen orders API called
+[2025-05-21 03:08:39] Found 1 orders
+[2025-05-21 03:08:39] Processing order #40
+[2025-05-21 03:08:39] Found 1 items for order #40
+[2025-05-21 03:08:44] Kitchen orders API called
+[2025-05-21 03:08:44] Found 1 orders
+[2025-05-21 03:08:44] Processing order #40
+[2025-05-21 03:08:44] Found 1 items for order #40
+[2025-05-21 03:08:49] Kitchen orders API called
+[2025-05-21 03:08:49] Found 1 orders
+[2025-05-21 03:08:49] Processing order #40
+[2025-05-21 03:08:49] Found 1 items for order #40
+[2025-05-21 03:08:54] Kitchen orders API called
+[2025-05-21 03:08:54] Found 1 orders
+[2025-05-21 03:08:54] Processing order #40
+[2025-05-21 03:08:54] Found 1 items for order #40
+[2025-05-21 03:08:59] Kitchen orders API called
+[2025-05-21 03:08:59] Found 1 orders
+[2025-05-21 03:08:59] Processing order #40
+[2025-05-21 03:08:59] Found 1 items for order #40
+[2025-05-21 03:09:04] Kitchen orders API called
+[2025-05-21 03:09:04] Found 1 orders
+[2025-05-21 03:09:04] Processing order #40
+[2025-05-21 03:09:04] Found 1 items for order #40
+[2025-05-21 03:09:09] Kitchen orders API called
+[2025-05-21 03:09:09] Found 1 orders
+[2025-05-21 03:09:09] Processing order #40
+[2025-05-21 03:09:09] Found 1 items for order #40
+[2025-05-21 03:09:14] Kitchen orders API called
+[2025-05-21 03:09:14] Found 1 orders
+[2025-05-21 03:09:14] Processing order #40
+[2025-05-21 03:09:14] Found 1 items for order #40
+[2025-05-21 03:09:19] Kitchen orders API called
+[2025-05-21 03:09:19] Found 1 orders
+[2025-05-21 03:09:19] Processing order #40
+[2025-05-21 03:09:19] Found 1 items for order #40
+[2025-05-21 03:09:24] Kitchen orders API called
+[2025-05-21 03:09:24] Found 1 orders
+[2025-05-21 03:09:24] Processing order #40
+[2025-05-21 03:09:24] Found 1 items for order #40
+[2025-05-21 03:09:29] Kitchen orders API called
+[2025-05-21 03:09:29] Found 1 orders
+[2025-05-21 03:09:29] Processing order #40
+[2025-05-21 03:09:29] Found 1 items for order #40
+[2025-05-21 03:09:34] Kitchen orders API called
+[2025-05-21 03:09:34] Found 1 orders
+[2025-05-21 03:09:34] Processing order #40
+[2025-05-21 03:09:34] Found 1 items for order #40
+[2025-05-21 03:09:39] Kitchen orders API called
+[2025-05-21 03:09:39] Found 1 orders
+[2025-05-21 03:09:39] Processing order #40
+[2025-05-21 03:09:39] Found 1 items for order #40
+[2025-05-21 03:09:44] Kitchen orders API called
+[2025-05-21 03:09:44] Found 1 orders
+[2025-05-21 03:09:44] Processing order #40
+[2025-05-21 03:09:44] Found 1 items for order #40
+[2025-05-21 03:09:49] Kitchen orders API called
+[2025-05-21 03:09:49] Found 1 orders
+[2025-05-21 03:09:49] Processing order #40
+[2025-05-21 03:09:49] Found 1 items for order #40
+[2025-05-21 03:09:54] Kitchen orders API called
+[2025-05-21 03:09:54] Found 1 orders
+[2025-05-21 03:09:54] Processing order #40
+[2025-05-21 03:09:54] Found 1 items for order #40
+[2025-05-21 03:09:59] Kitchen orders API called
+[2025-05-21 03:09:59] Found 1 orders
+[2025-05-21 03:09:59] Processing order #40
+[2025-05-21 03:09:59] Found 1 items for order #40
+[2025-05-21 03:10:04] Kitchen orders API called
+[2025-05-21 03:10:04] Found 1 orders
+[2025-05-21 03:10:04] Processing order #40
+[2025-05-21 03:10:04] Found 1 items for order #40
+[2025-05-21 03:10:09] Kitchen orders API called
+[2025-05-21 03:10:09] Found 1 orders
+[2025-05-21 03:10:09] Processing order #40
+[2025-05-21 03:10:09] Found 1 items for order #40
+[2025-05-21 03:10:14] Kitchen orders API called
+[2025-05-21 03:10:14] Found 1 orders
+[2025-05-21 03:10:14] Processing order #40
+[2025-05-21 03:10:14] Found 1 items for order #40
+[2025-05-21 03:10:19] Kitchen orders API called
+[2025-05-21 03:10:19] Found 1 orders
+[2025-05-21 03:10:19] Processing order #40
+[2025-05-21 03:10:19] Found 1 items for order #40
+[2025-05-21 03:10:24] Kitchen orders API called
+[2025-05-21 03:10:24] Found 1 orders
+[2025-05-21 03:10:24] Processing order #40
+[2025-05-21 03:10:24] Found 1 items for order #40
+[2025-05-21 03:10:29] Kitchen orders API called
+[2025-05-21 03:10:29] Found 1 orders
+[2025-05-21 03:10:29] Processing order #40
+[2025-05-21 03:10:29] Found 1 items for order #40
+[2025-05-21 03:10:34] Kitchen orders API called
+[2025-05-21 03:10:34] Found 1 orders
+[2025-05-21 03:10:34] Processing order #40
+[2025-05-21 03:10:34] Found 1 items for order #40
+[2025-05-21 03:10:39] Kitchen orders API called
+[2025-05-21 03:10:39] Found 1 orders
+[2025-05-21 03:10:39] Processing order #40
+[2025-05-21 03:10:39] Found 1 items for order #40
+[2025-05-21 03:10:44] Kitchen orders API called
+[2025-05-21 03:10:44] Found 1 orders
+[2025-05-21 03:10:44] Processing order #40
+[2025-05-21 03:10:44] Found 1 items for order #40
+[2025-05-21 03:10:49] Kitchen orders API called
+[2025-05-21 03:10:49] Found 1 orders
+[2025-05-21 03:10:49] Processing order #40
+[2025-05-21 03:10:49] Found 1 items for order #40
+[2025-05-21 03:10:54] Kitchen orders API called
+[2025-05-21 03:10:54] Found 1 orders
+[2025-05-21 03:10:54] Processing order #40
+[2025-05-21 03:10:54] Found 1 items for order #40
+[2025-05-21 03:10:59] Kitchen orders API called
+[2025-05-21 03:10:59] Found 1 orders
+[2025-05-21 03:10:59] Processing order #40
+[2025-05-21 03:10:59] Found 1 items for order #40
+[2025-05-21 03:11:04] Kitchen orders API called
+[2025-05-21 03:11:04] Found 1 orders
+[2025-05-21 03:11:04] Processing order #40
+[2025-05-21 03:11:04] Found 1 items for order #40
+[2025-05-21 03:11:09] Kitchen orders API called
+[2025-05-21 03:11:09] Found 1 orders
+[2025-05-21 03:11:09] Processing order #40
+[2025-05-21 03:11:09] Found 1 items for order #40
+[2025-05-21 03:11:14] Kitchen orders API called
+[2025-05-21 03:11:14] Found 1 orders
+[2025-05-21 03:11:14] Processing order #40
+[2025-05-21 03:11:14] Found 1 items for order #40
+[2025-05-21 03:11:19] Kitchen orders API called
+[2025-05-21 03:11:19] Found 1 orders
+[2025-05-21 03:11:19] Processing order #40
+[2025-05-21 03:11:19] Found 1 items for order #40
+[2025-05-21 03:11:24] Kitchen orders API called
+[2025-05-21 03:11:24] Found 1 orders
+[2025-05-21 03:11:24] Processing order #40
+[2025-05-21 03:11:24] Found 1 items for order #40
+[2025-05-21 03:11:29] Kitchen orders API called
+[2025-05-21 03:11:29] Found 1 orders
+[2025-05-21 03:11:29] Processing order #40
+[2025-05-21 03:11:29] Found 1 items for order #40
+[2025-05-21 03:11:34] Kitchen orders API called
+[2025-05-21 03:11:34] Found 1 orders
+[2025-05-21 03:11:34] Processing order #40
+[2025-05-21 03:11:34] Found 1 items for order #40
+[2025-05-21 03:11:39] Kitchen orders API called
+[2025-05-21 03:11:39] Found 1 orders
+[2025-05-21 03:11:39] Processing order #40
+[2025-05-21 03:11:39] Found 1 items for order #40
+[2025-05-21 03:11:44] Kitchen orders API called
+[2025-05-21 03:11:44] Found 1 orders
+[2025-05-21 03:11:44] Processing order #40
+[2025-05-21 03:11:44] Found 1 items for order #40
+[2025-05-21 03:11:49] Kitchen orders API called
+[2025-05-21 03:11:49] Found 1 orders
+[2025-05-21 03:11:49] Processing order #40
+[2025-05-21 03:11:49] Found 1 items for order #40
+[2025-05-21 03:11:54] Kitchen orders API called
+[2025-05-21 03:11:54] Found 1 orders
+[2025-05-21 03:11:54] Processing order #40
+[2025-05-21 03:11:54] Found 1 items for order #40
+[2025-05-21 03:11:59] Kitchen orders API called
+[2025-05-21 03:11:59] Found 1 orders
+[2025-05-21 03:11:59] Processing order #40
+[2025-05-21 03:11:59] Found 1 items for order #40
+[2025-05-21 03:12:04] Kitchen orders API called
+[2025-05-21 03:12:04] Found 1 orders
+[2025-05-21 03:12:04] Processing order #40
+[2025-05-21 03:12:04] Found 1 items for order #40
+[2025-05-21 03:12:09] Kitchen orders API called
+[2025-05-21 03:12:09] Found 1 orders
+[2025-05-21 03:12:09] Processing order #40
+[2025-05-21 03:12:09] Found 1 items for order #40
+[2025-05-21 03:12:14] Kitchen orders API called
+[2025-05-21 03:12:14] Found 1 orders
+[2025-05-21 03:12:14] Processing order #40
+[2025-05-21 03:12:14] Found 1 items for order #40
+[2025-05-21 03:12:19] Kitchen orders API called
+[2025-05-21 03:12:19] Found 1 orders
+[2025-05-21 03:12:19] Processing order #40
+[2025-05-21 03:12:19] Found 1 items for order #40
+[2025-05-21 03:12:24] Kitchen orders API called
+[2025-05-21 03:12:24] Found 1 orders
+[2025-05-21 03:12:24] Processing order #40
+[2025-05-21 03:12:24] Found 1 items for order #40
+[2025-05-21 03:12:27] Kitchen orders API called
+[2025-05-21 03:12:27] Found 0 orders
+[2025-05-21 03:12:29] Kitchen orders API called
+[2025-05-21 03:12:29] Found 0 orders
+[2025-05-21 03:12:34] Kitchen orders API called
+[2025-05-21 03:12:34] Found 0 orders
+[2025-05-21 03:12:39] Kitchen orders API called
+[2025-05-21 03:12:39] Found 0 orders
+[2025-05-21 03:12:44] Kitchen orders API called
+[2025-05-21 03:12:44] Found 0 orders
+[2025-05-21 03:12:49] Kitchen orders API called
+[2025-05-21 03:12:49] Found 0 orders
+[2025-05-21 03:12:54] Kitchen orders API called
+[2025-05-21 03:12:54] Found 0 orders
+[2025-05-21 03:12:59] Kitchen orders API called
+[2025-05-21 03:12:59] Found 0 orders
+[2025-05-21 03:13:04] Kitchen orders API called
+[2025-05-21 03:13:04] Found 0 orders
+[2025-05-21 03:13:09] Kitchen orders API called
+[2025-05-21 03:13:09] Found 0 orders
+[2025-05-21 03:13:14] Kitchen orders API called
+[2025-05-21 03:13:14] Found 0 orders
+[2025-05-21 03:13:19] Kitchen orders API called
+[2025-05-21 03:13:19] Found 0 orders
+[2025-05-21 03:13:24] Kitchen orders API called
+[2025-05-21 03:13:24] Found 0 orders
+[2025-05-21 03:13:29] Kitchen orders API called
+[2025-05-21 03:13:29] Found 0 orders
+[2025-05-21 03:13:34] Kitchen orders API called
+[2025-05-21 03:13:34] Found 0 orders
+[2025-05-21 03:13:39] Kitchen orders API called
+[2025-05-21 03:13:39] Found 0 orders
+[2025-05-21 03:13:44] Kitchen orders API called
+[2025-05-21 03:13:44] Found 0 orders
+[2025-05-21 03:13:49] Kitchen orders API called
+[2025-05-21 03:13:49] Found 0 orders
+[2025-05-21 03:13:54] Kitchen orders API called
+[2025-05-21 03:13:54] Found 0 orders
+[2025-05-21 03:13:59] Kitchen orders API called
+[2025-05-21 03:13:59] Found 0 orders
+[2025-05-21 03:14:04] Kitchen orders API called
+[2025-05-21 03:14:04] Found 0 orders
+[2025-05-21 03:14:09] Kitchen orders API called
+[2025-05-21 03:14:09] Found 0 orders
+[2025-05-21 03:14:14] Kitchen orders API called
+[2025-05-21 03:14:14] Found 0 orders
+[2025-05-21 03:14:19] Kitchen orders API called
+[2025-05-21 03:14:19] Found 0 orders
+[2025-05-21 03:14:24] Kitchen orders API called
+[2025-05-21 03:14:24] Found 0 orders
+[2025-05-21 03:14:29] Kitchen orders API called
+[2025-05-21 03:14:29] Found 0 orders
+[2025-05-21 03:14:34] Kitchen orders API called
+[2025-05-21 03:14:34] Found 0 orders
+[2025-05-21 03:14:39] Kitchen orders API called
+[2025-05-21 03:14:39] Found 0 orders
+[2025-05-21 03:14:44] Kitchen orders API called
+[2025-05-21 03:14:44] Found 0 orders
+[2025-05-21 03:14:49] Kitchen orders API called
+[2025-05-21 03:14:49] Found 0 orders
+[2025-05-21 03:14:54] Kitchen orders API called
+[2025-05-21 03:14:54] Found 0 orders
+[2025-05-21 03:14:59] Kitchen orders API called
+[2025-05-21 03:14:59] Found 0 orders
+[2025-05-21 03:15:04] Kitchen orders API called
+[2025-05-21 03:15:04] Found 0 orders
+[2025-05-21 03:15:09] Kitchen orders API called
+[2025-05-21 03:15:09] Found 0 orders
+[2025-05-21 03:15:14] Kitchen orders API called
+[2025-05-21 03:15:14] Found 0 orders
+[2025-05-21 03:15:19] Kitchen orders API called
+[2025-05-21 03:15:19] Found 0 orders
+[2025-05-21 03:15:24] Kitchen orders API called
+[2025-05-21 03:15:24] Found 0 orders
+[2025-05-21 03:15:29] Kitchen orders API called
+[2025-05-21 03:15:29] Found 0 orders
+[2025-05-21 03:15:34] Kitchen orders API called
+[2025-05-21 03:15:34] Found 0 orders
+[2025-05-21 03:15:39] Kitchen orders API called
+[2025-05-21 03:15:39] Found 0 orders
+[2025-05-21 03:15:44] Kitchen orders API called
+[2025-05-21 03:15:44] Found 0 orders
+[2025-05-21 03:15:49] Kitchen orders API called
+[2025-05-21 03:15:49] Found 0 orders
+[2025-05-21 03:15:54] Kitchen orders API called
+[2025-05-21 03:15:54] Found 0 orders
+[2025-05-21 03:15:59] Kitchen orders API called
+[2025-05-21 03:15:59] Found 0 orders
+[2025-05-21 03:16:04] Kitchen orders API called
+[2025-05-21 03:16:04] Found 0 orders
+[2025-05-21 03:16:09] Kitchen orders API called
+[2025-05-21 03:16:09] Found 0 orders
+[2025-05-21 03:16:14] Kitchen orders API called
+[2025-05-21 03:16:14] Found 0 orders
+[2025-05-21 03:16:19] Kitchen orders API called
+[2025-05-21 03:16:19] Found 0 orders
+[2025-05-21 03:16:24] Kitchen orders API called
+[2025-05-21 03:16:24] Found 0 orders
+[2025-05-21 03:16:29] Kitchen orders API called
+[2025-05-21 03:16:29] Found 0 orders
+[2025-05-21 03:16:34] Kitchen orders API called
+[2025-05-21 03:16:34] Found 0 orders
+[2025-05-21 03:16:39] Kitchen orders API called
+[2025-05-21 03:16:39] Found 0 orders
+[2025-05-21 03:16:44] Kitchen orders API called
+[2025-05-21 03:16:44] Found 0 orders
+[2025-05-21 03:16:49] Kitchen orders API called
+[2025-05-21 03:16:49] Found 0 orders
+[2025-05-21 03:16:54] Kitchen orders API called
+[2025-05-21 03:16:54] Found 0 orders
+[2025-05-21 03:16:59] Kitchen orders API called
+[2025-05-21 03:16:59] Found 0 orders
+[2025-05-21 03:17:04] Kitchen orders API called
+[2025-05-21 03:17:04] Found 0 orders
+[2025-05-21 03:17:09] Kitchen orders API called
+[2025-05-21 03:17:09] Found 0 orders
+[2025-05-21 03:17:14] Kitchen orders API called
+[2025-05-21 03:17:14] Found 0 orders
+[2025-05-21 03:17:19] Kitchen orders API called
+[2025-05-21 03:17:19] Found 0 orders
+[2025-05-21 03:17:24] Kitchen orders API called
+[2025-05-21 03:17:24] Found 0 orders
+[2025-05-21 03:17:29] Kitchen orders API called
+[2025-05-21 03:17:29] Found 0 orders
+[2025-05-21 03:17:34] Kitchen orders API called
+[2025-05-21 03:17:34] Found 0 orders
+[2025-05-21 03:17:39] Kitchen orders API called
+[2025-05-21 03:17:39] Found 0 orders
+[2025-05-21 03:17:44] Kitchen orders API called
+[2025-05-21 03:17:44] Found 0 orders
+[2025-05-21 03:17:49] Kitchen orders API called
+[2025-05-21 03:17:49] Found 0 orders
+[2025-05-21 03:17:54] Kitchen orders API called
+[2025-05-21 03:17:54] Found 0 orders
+[2025-05-21 03:17:59] Kitchen orders API called
+[2025-05-21 03:17:59] Found 0 orders
+[2025-05-21 03:18:04] Kitchen orders API called
+[2025-05-21 03:18:04] Found 0 orders
+[2025-05-21 03:18:09] Kitchen orders API called
+[2025-05-21 03:18:09] Found 0 orders
+[2025-05-21 03:18:14] Kitchen orders API called
+[2025-05-21 03:18:14] Found 0 orders
+[2025-05-21 03:18:19] Kitchen orders API called
+[2025-05-21 03:18:19] Found 0 orders
+[2025-05-21 03:18:24] Kitchen orders API called
+[2025-05-21 03:18:24] Found 0 orders
+[2025-05-21 03:18:29] Kitchen orders API called
+[2025-05-21 03:18:29] Found 0 orders
+[2025-05-21 03:18:34] Kitchen orders API called
+[2025-05-21 03:18:34] Found 0 orders
+[2025-05-21 03:18:39] Kitchen orders API called
+[2025-05-21 03:18:39] Found 0 orders
+[2025-05-21 03:18:44] Kitchen orders API called
+[2025-05-21 03:18:44] Found 0 orders
+[2025-05-21 03:18:49] Kitchen orders API called
+[2025-05-21 03:18:49] Found 0 orders
+[2025-05-21 03:18:54] Kitchen orders API called
+[2025-05-21 03:18:54] Found 0 orders
+[2025-05-21 03:18:59] Kitchen orders API called
+[2025-05-21 03:18:59] Found 0 orders
+[2025-05-21 03:19:04] Kitchen orders API called
+[2025-05-21 03:19:04] Found 0 orders
+[2025-05-21 03:19:09] Kitchen orders API called
+[2025-05-21 03:19:09] Found 0 orders
+[2025-05-21 03:19:14] Kitchen orders API called
+[2025-05-21 03:19:14] Found 0 orders
+[2025-05-21 03:19:19] Kitchen orders API called
+[2025-05-21 03:19:19] Found 0 orders
+[2025-05-21 03:19:24] Kitchen orders API called
+[2025-05-21 03:19:24] Found 0 orders
+[2025-05-21 03:19:29] Kitchen orders API called
+[2025-05-21 03:19:29] Found 0 orders
+[2025-05-21 03:19:34] Kitchen orders API called
+[2025-05-21 03:19:34] Found 0 orders
+[2025-05-21 03:19:39] Kitchen orders API called
+[2025-05-21 03:19:39] Found 0 orders
+[2025-05-21 03:19:44] Kitchen orders API called
+[2025-05-21 03:19:44] Found 0 orders
+[2025-05-21 03:19:49] Kitchen orders API called
+[2025-05-21 03:19:49] Found 0 orders
+[2025-05-21 03:19:54] Kitchen orders API called
+[2025-05-21 03:19:54] Found 0 orders
+[2025-05-21 03:19:59] Kitchen orders API called
+[2025-05-21 03:19:59] Found 0 orders
+[2025-05-21 03:20:04] Kitchen orders API called
+[2025-05-21 03:20:04] Found 0 orders
+[2025-05-21 03:20:09] Kitchen orders API called
+[2025-05-21 03:20:09] Found 0 orders
+[2025-05-21 03:20:14] Kitchen orders API called
+[2025-05-21 03:20:14] Found 0 orders
+[2025-05-21 03:29:24] Kitchen orders API called
+[2025-05-21 03:29:24] Found 0 orders
+[2025-05-21 03:29:29] Kitchen orders API called
+[2025-05-21 03:29:29] Found 0 orders
+[2025-05-21 03:29:34] Kitchen orders API called
+[2025-05-21 03:29:34] Found 1 orders
+[2025-05-21 03:29:34] Processing order #41
+[2025-05-21 03:29:34] Found 1 items for order #41
+[2025-05-21 03:29:39] Kitchen orders API called
+[2025-05-21 03:29:39] Found 0 orders
+[2025-05-21 03:29:43] Kitchen orders API called
+[2025-05-21 03:29:43] Found 0 orders
+[2025-05-21 03:29:45] Kitchen orders API called
+[2025-05-21 03:29:45] Found 0 orders
+[2025-05-21 03:29:50] Kitchen orders API called
+[2025-05-21 03:29:50] Found 0 orders
+[2025-05-21 03:29:55] Kitchen orders API called
+[2025-05-21 03:29:55] Found 0 orders
+[2025-05-21 03:30:00] Kitchen orders API called
+[2025-05-21 03:30:00] Found 0 orders
+[2025-05-21 03:30:05] Kitchen orders API called
+[2025-05-21 03:30:05] Found 0 orders
+[2025-05-21 03:30:10] Kitchen orders API called
+[2025-05-21 03:30:10] Found 0 orders
+[2025-05-21 03:30:15] Kitchen orders API called
+[2025-05-21 03:30:15] Found 0 orders
+[2025-05-21 03:30:20] Kitchen orders API called
+[2025-05-21 03:30:20] Found 0 orders
+[2025-05-21 03:30:25] Kitchen orders API called
+[2025-05-21 03:30:25] Found 0 orders
+[2025-05-21 03:30:30] Kitchen orders API called
+[2025-05-21 03:30:30] Found 0 orders
+[2025-05-21 03:38:09] Kitchen orders API called
+[2025-05-21 03:38:09] Found 0 orders
+[2025-05-21 03:38:14] Kitchen orders API called
+[2025-05-21 03:38:14] Found 0 orders
+[2025-05-21 05:11:53] Kitchen orders API called
+[2025-05-21 05:11:53] Found 0 orders
+[2025-05-21 05:11:58] Kitchen orders API called
+[2025-05-21 05:11:58] Found 0 orders
+[2025-05-21 05:12:03] Kitchen orders API called
+[2025-05-21 05:12:03] Found 0 orders
+[2025-05-21 05:12:08] Kitchen orders API called
+[2025-05-21 05:12:08] Found 0 orders
+[2025-05-21 05:12:13] Kitchen orders API called
+[2025-05-21 05:12:13] Found 0 orders
+[2025-05-21 05:12:18] Kitchen orders API called
+[2025-05-21 05:12:18] Found 0 orders
+[2025-05-21 05:12:23] Kitchen orders API called
+[2025-05-21 05:12:23] Found 0 orders
+[2025-05-21 05:12:29] Kitchen orders API called
+[2025-05-21 05:12:29] Found 0 orders
+[2025-05-21 05:12:45] Kitchen orders API called
+[2025-05-21 05:12:45] Found 0 orders
+[2025-05-21 05:12:46] Kitchen orders API called
+[2025-05-21 05:12:46] Found 0 orders
+[2025-05-21 05:12:52] Kitchen orders API called
+[2025-05-21 05:12:52] Found 0 orders
+[2025-05-21 05:12:57] Kitchen orders API called
+[2025-05-21 05:12:57] Found 0 orders
+[2025-05-21 05:13:02] Kitchen orders API called
+[2025-05-21 05:13:02] Found 0 orders
+[2025-05-21 05:13:07] Kitchen orders API called
+[2025-05-21 05:13:07] Found 0 orders
+[2025-05-21 05:13:12] Kitchen orders API called
+[2025-05-21 05:13:12] Found 0 orders
+[2025-05-21 05:13:16] Kitchen orders API called
+[2025-05-21 05:13:16] Found 0 orders
+[2025-05-21 05:13:22] Kitchen orders API called
+[2025-05-21 05:13:22] Found 0 orders
+[2025-05-21 05:13:27] Kitchen orders API called
+[2025-05-21 05:13:27] Found 0 orders
+[2025-05-21 05:13:32] Kitchen orders API called
+[2025-05-21 05:13:32] Found 0 orders
+[2025-05-21 05:13:37] Kitchen orders API called
+[2025-05-21 05:13:37] Found 0 orders
+[2025-05-21 05:13:42] Kitchen orders API called
+[2025-05-21 05:13:42] Found 0 orders
+[2025-05-21 05:13:46] Kitchen orders API called
+[2025-05-21 05:13:46] Found 0 orders
+[2025-05-21 05:13:52] Kitchen orders API called
+[2025-05-21 05:13:52] Found 1 orders
+[2025-05-21 05:13:52] Processing order #43
+[2025-05-21 05:13:52] Found 1 items for order #43
+[2025-05-21 05:13:56] Kitchen orders API called
+[2025-05-21 05:13:56] Found 1 orders
+[2025-05-21 05:13:56] Processing order #43
+[2025-05-21 05:13:56] Found 1 items for order #43
+[2025-05-21 05:14:01] Kitchen orders API called
+[2025-05-21 05:14:01] Found 1 orders
+[2025-05-21 05:14:01] Processing order #43
+[2025-05-21 05:14:01] Found 1 items for order #43
+[2025-05-21 05:14:06] Kitchen orders API called
+[2025-05-21 05:14:06] Found 2 orders
+[2025-05-21 05:14:06] Processing order #42
+[2025-05-21 05:14:06] Found 1 items for order #42
+[2025-05-21 05:14:06] Processing order #43
+[2025-05-21 05:14:06] Found 1 items for order #43
+[2025-05-21 05:14:11] Kitchen orders API called
+[2025-05-21 05:14:11] Found 2 orders
+[2025-05-21 05:14:11] Processing order #42
+[2025-05-21 05:14:11] Found 1 items for order #42
+[2025-05-21 05:14:11] Processing order #43
+[2025-05-21 05:14:11] Found 1 items for order #43
+[2025-05-21 05:14:17] Kitchen orders API called
+[2025-05-21 05:14:17] Found 2 orders
+[2025-05-21 05:14:17] Processing order #42
+[2025-05-21 05:14:17] Found 1 items for order #42
+[2025-05-21 05:14:17] Processing order #43
+[2025-05-21 05:14:17] Found 1 items for order #43
+[2025-05-21 05:14:21] Kitchen orders API called
+[2025-05-21 05:14:21] Found 2 orders
+[2025-05-21 05:14:21] Processing order #42
+[2025-05-21 05:14:21] Found 1 items for order #42
+[2025-05-21 05:14:21] Processing order #43
+[2025-05-21 05:14:21] Found 1 items for order #43
+[2025-05-21 05:14:27] Kitchen orders API called
+[2025-05-21 05:14:27] Found 2 orders
+[2025-05-21 05:14:27] Processing order #42
+[2025-05-21 05:14:27] Found 1 items for order #42
+[2025-05-21 05:14:27] Processing order #43
+[2025-05-21 05:14:27] Found 1 items for order #43
+[2025-05-21 05:14:31] Kitchen orders API called
+[2025-05-21 05:14:31] Found 2 orders
+[2025-05-21 05:14:31] Processing order #42
+[2025-05-21 05:14:31] Found 1 items for order #42
+[2025-05-21 05:14:31] Processing order #43
+[2025-05-21 05:14:31] Found 1 items for order #43
+[2025-05-21 05:14:36] Kitchen orders API called
+[2025-05-21 05:14:36] Found 2 orders
+[2025-05-21 05:14:36] Processing order #42
+[2025-05-21 05:14:36] Found 1 items for order #42
+[2025-05-21 05:14:36] Processing order #43
+[2025-05-21 05:14:36] Found 1 items for order #43
+[2025-05-21 05:14:42] Kitchen orders API called
+[2025-05-21 05:14:42] Found 2 orders
+[2025-05-21 05:14:42] Processing order #42
+[2025-05-21 05:14:42] Found 1 items for order #42
+[2025-05-21 05:14:42] Processing order #43
+[2025-05-21 05:14:42] Found 1 items for order #43
+[2025-05-21 05:14:46] Kitchen orders API called
+[2025-05-21 05:14:46] Found 2 orders
+[2025-05-21 05:14:46] Processing order #42
+[2025-05-21 05:14:46] Found 1 items for order #42
+[2025-05-21 05:14:46] Processing order #43
+[2025-05-21 05:14:46] Found 1 items for order #43
+[2025-05-21 05:14:52] Kitchen orders API called
+[2025-05-21 05:14:52] Found 1 orders
+[2025-05-21 05:14:52] Processing order #43
+[2025-05-21 05:14:52] Found 1 items for order #43
+[2025-05-21 05:14:56] Kitchen orders API called
+[2025-05-21 05:14:56] Found 0 orders
+[2025-05-21 05:15:02] Kitchen orders API called
+[2025-05-21 05:15:02] Found 0 orders
+[2025-05-21 05:15:07] Kitchen orders API called
+[2025-05-21 05:15:07] Found 0 orders
+[2025-05-21 05:15:12] Kitchen orders API called
+[2025-05-21 05:15:12] Found 0 orders
+[2025-05-21 05:15:13] Kitchen orders API called
+[2025-05-21 05:15:13] Found 0 orders
+[2025-05-21 05:15:17] Kitchen orders API called
+[2025-05-21 05:15:17] Found 0 orders
+[2025-05-21 05:15:22] Kitchen orders API called
+[2025-05-21 05:15:22] Found 0 orders
+[2025-05-21 05:15:27] Kitchen orders API called
+[2025-05-21 05:15:27] Found 0 orders
+[2025-05-21 05:15:31] Kitchen orders API called
+[2025-05-21 05:15:31] Found 0 orders
+[2025-05-21 05:15:36] Kitchen orders API called
+[2025-05-21 05:15:36] Found 0 orders
+[2025-05-21 05:15:42] Kitchen orders API called
+[2025-05-21 05:15:42] Found 0 orders
+[2025-05-21 05:15:46] Kitchen orders API called
+[2025-05-21 05:15:46] Found 1 orders
+[2025-05-21 05:15:46] Processing order #44
+[2025-05-21 05:15:46] Found 1 items for order #44
+[2025-05-21 05:15:52] Kitchen orders API called
+[2025-05-21 05:15:52] Found 1 orders
+[2025-05-21 05:15:52] Processing order #44
+[2025-05-21 05:15:52] Found 1 items for order #44
+[2025-05-21 05:15:57] Kitchen orders API called
+[2025-05-21 05:15:57] Found 1 orders
+[2025-05-21 05:15:57] Processing order #44
+[2025-05-21 05:15:57] Found 1 items for order #44
+[2025-05-21 05:16:02] Kitchen orders API called
+[2025-05-21 05:16:03] Found 0 orders
+[2025-05-21 05:16:07] Kitchen orders API called
+[2025-05-21 05:16:07] Found 0 orders
+[2025-05-21 05:16:12] Kitchen orders API called
+[2025-05-21 05:16:12] Found 0 orders
+[2025-05-21 05:16:17] Kitchen orders API called
+[2025-05-21 05:16:17] Found 0 orders
+[2025-05-21 05:16:22] Kitchen orders API called
+[2025-05-21 05:16:22] Found 0 orders
+[2025-05-21 05:16:26] Kitchen orders API called
+[2025-05-21 05:16:26] Found 0 orders
+[2025-05-21 05:16:32] Kitchen orders API called
+[2025-05-21 05:16:32] Found 0 orders
+[2025-05-21 05:16:36] Kitchen orders API called
+[2025-05-21 05:16:36] Found 0 orders
+[2025-05-21 05:16:42] Kitchen orders API called
+[2025-05-21 05:16:42] Found 0 orders
+[2025-05-21 05:16:47] Kitchen orders API called
+[2025-05-21 05:16:47] Found 0 orders
+[2025-05-21 05:16:52] Kitchen orders API called
+[2025-05-21 05:16:52] Found 0 orders
+[2025-05-21 05:16:57] Kitchen orders API called
+[2025-05-21 05:16:57] Found 0 orders
+[2025-05-21 05:17:02] Kitchen orders API called
+[2025-05-21 05:17:02] Found 0 orders
+[2025-05-21 05:17:06] Kitchen orders API called
+[2025-05-21 05:17:06] Found 0 orders
+[2025-05-21 05:17:12] Kitchen orders API called
+[2025-05-21 05:17:12] Found 0 orders
+[2025-05-21 05:17:17] Kitchen orders API called
+[2025-05-21 05:17:17] Found 0 orders
+[2025-05-21 05:17:23] Kitchen orders API called
+[2025-05-21 05:17:23] Found 0 orders
+[2025-05-21 05:17:27] Kitchen orders API called
+[2025-05-21 05:17:27] Found 0 orders
+[2025-05-21 05:17:32] Kitchen orders API called
+[2025-05-21 05:17:32] Found 0 orders
+[2025-05-21 05:17:38] Kitchen orders API called
+[2025-05-21 05:17:38] Found 0 orders
+[2025-05-21 05:17:42] Kitchen orders API called
+[2025-05-21 05:17:42] Found 0 orders
+[2025-05-21 05:17:47] Kitchen orders API called
+[2025-05-21 05:17:47] Found 0 orders
+[2025-05-21 05:17:52] Kitchen orders API called
+[2025-05-21 05:17:52] Found 0 orders
+[2025-05-21 05:17:56] Kitchen orders API called
+[2025-05-21 05:17:56] Found 0 orders
+[2025-05-21 05:18:02] Kitchen orders API called
+[2025-05-21 05:18:02] Found 0 orders
+[2025-05-21 05:18:06] Kitchen orders API called
+[2025-05-21 05:18:06] Found 0 orders
+[2025-05-21 05:18:12] Kitchen orders API called
+[2025-05-21 05:18:12] Found 0 orders
+[2025-05-21 05:18:16] Kitchen orders API called
+[2025-05-21 05:18:16] Found 0 orders
+[2025-05-21 05:18:21] Kitchen orders API called
+[2025-05-21 05:18:21] Found 0 orders
+[2025-05-21 05:18:27] Kitchen orders API called
+[2025-05-21 05:18:27] Found 0 orders
+[2025-05-21 05:18:32] Kitchen orders API called
+[2025-05-21 05:18:32] Found 0 orders
+[2025-05-21 05:18:36] Kitchen orders API called
+[2025-05-21 05:18:36] Found 0 orders
+[2025-05-21 05:18:42] Kitchen orders API called
+[2025-05-21 05:18:42] Found 0 orders
+[2025-05-21 05:18:47] Kitchen orders API called
+[2025-05-21 05:18:47] Found 0 orders
+[2025-05-21 05:18:52] Kitchen orders API called
+[2025-05-21 05:18:52] Found 0 orders
+[2025-05-21 05:18:56] Kitchen orders API called
+[2025-05-21 05:18:56] Found 0 orders
+[2025-05-21 05:19:02] Kitchen orders API called
+[2025-05-21 05:19:02] Found 0 orders
+[2025-05-21 05:19:07] Kitchen orders API called
+[2025-05-21 05:19:07] Found 0 orders
+[2025-05-21 05:19:12] Kitchen orders API called
+[2025-05-21 05:19:12] Found 0 orders
+[2025-05-21 05:19:17] Kitchen orders API called
+[2025-05-21 05:19:17] Found 0 orders
+[2025-05-21 05:19:22] Kitchen orders API called
+[2025-05-21 05:19:22] Found 0 orders
+[2025-05-21 05:19:26] Kitchen orders API called
+[2025-05-21 05:19:26] Found 0 orders
+[2025-05-21 05:19:31] Kitchen orders API called
+[2025-05-21 05:19:31] Found 0 orders
+[2025-05-21 05:19:36] Kitchen orders API called
+[2025-05-21 05:19:36] Found 0 orders
+[2025-05-21 05:19:42] Kitchen orders API called
+[2025-05-21 05:19:42] Found 0 orders
+[2025-05-21 05:19:47] Kitchen orders API called
+[2025-05-21 05:19:47] Found 0 orders
+[2025-05-21 05:19:52] Kitchen orders API called
+[2025-05-21 05:19:52] Found 0 orders
+[2025-05-21 05:20:39] Kitchen orders API called
+[2025-05-21 05:20:39] Found 0 orders
+[2025-05-21 05:20:44] Kitchen orders API called
+[2025-05-21 05:20:44] Found 0 orders
+[2025-05-21 05:20:49] Kitchen orders API called
+[2025-05-21 05:20:49] Found 0 orders
+[2025-05-21 05:20:54] Kitchen orders API called
+[2025-05-21 05:20:54] Found 0 orders
+[2025-05-21 05:20:59] Kitchen orders API called
+[2025-05-21 05:20:59] Found 0 orders
+[2025-05-21 05:21:04] Kitchen orders API called
+[2025-05-21 05:21:04] Found 0 orders
+[2025-05-21 05:21:09] Kitchen orders API called
+[2025-05-21 05:21:09] Found 1 orders
+[2025-05-21 05:21:09] Processing order #45
+[2025-05-21 05:21:09] Found 1 items for order #45
+[2025-05-21 05:21:14] Kitchen orders API called
+[2025-05-21 05:21:14] Found 0 orders
+[2025-05-21 05:21:19] Kitchen orders API called
+[2025-05-21 05:21:19] Found 0 orders
+[2025-05-21 05:21:25] Kitchen orders API called
+[2025-05-21 05:21:25] Found 0 orders
+[2025-05-21 05:21:29] Kitchen orders API called
+[2025-05-21 05:21:29] Found 0 orders
+[2025-05-21 05:21:34] Kitchen orders API called
+[2025-05-21 05:21:34] Found 0 orders
+[2025-05-21 05:21:39] Kitchen orders API called
+[2025-05-21 05:21:39] Found 0 orders
+[2025-05-21 05:21:44] Kitchen orders API called
+[2025-05-21 05:21:44] Found 0 orders
+[2025-05-21 05:21:49] Kitchen orders API called
+[2025-05-21 05:21:49] Found 0 orders
+[2025-05-21 05:21:54] Kitchen orders API called
+[2025-05-21 05:21:54] Found 0 orders
+[2025-05-21 05:21:59] Kitchen orders API called
+[2025-05-21 05:21:59] Found 0 orders
+[2025-05-21 05:22:04] Kitchen orders API called
+[2025-05-21 05:22:04] Found 0 orders
+[2025-05-21 05:22:09] Kitchen orders API called
+[2025-05-21 05:22:09] Found 0 orders
+[2025-05-21 05:22:14] Kitchen orders API called
+[2025-05-21 05:22:14] Found 0 orders
+[2025-05-21 05:22:19] Kitchen orders API called
+[2025-05-21 05:22:19] Found 0 orders
+[2025-05-21 05:22:24] Kitchen orders API called
+[2025-05-21 05:22:24] Found 0 orders
+[2025-05-21 05:22:29] Kitchen orders API called
+[2025-05-21 05:22:29] Found 0 orders
+[2025-05-21 05:22:34] Kitchen orders API called
+[2025-05-21 05:22:34] Found 0 orders
+[2025-05-21 05:22:39] Kitchen orders API called
+[2025-05-21 05:22:39] Found 0 orders
+[2025-05-21 05:22:44] Kitchen orders API called
+[2025-05-21 05:22:44] Found 0 orders
+[2025-05-21 05:22:49] Kitchen orders API called
+[2025-05-21 05:22:49] Found 0 orders
+[2025-05-21 05:22:55] Kitchen orders API called
+[2025-05-21 05:22:55] Found 0 orders
+[2025-05-21 05:22:59] Kitchen orders API called
+[2025-05-21 05:22:59] Found 0 orders
+[2025-05-21 05:23:04] Kitchen orders API called
+[2025-05-21 05:23:04] Found 0 orders
+[2025-05-21 05:23:09] Kitchen orders API called
+[2025-05-21 05:23:09] Found 0 orders
+[2025-05-21 05:23:14] Kitchen orders API called
+[2025-05-21 05:23:14] Found 0 orders
+[2025-05-21 05:23:19] Kitchen orders API called
+[2025-05-21 05:23:19] Found 0 orders
+[2025-05-21 05:23:24] Kitchen orders API called
+[2025-05-21 05:23:24] Found 0 orders
+[2025-05-21 05:23:29] Kitchen orders API called
+[2025-05-21 05:23:29] Found 0 orders
+[2025-05-21 05:23:34] Kitchen orders API called
+[2025-05-21 05:23:34] Found 0 orders
+[2025-05-21 05:23:39] Kitchen orders API called
+[2025-05-21 05:23:39] Found 0 orders
+[2025-05-21 05:23:44] Kitchen orders API called
+[2025-05-21 05:23:44] Found 0 orders
+[2025-05-21 05:23:49] Kitchen orders API called
+[2025-05-21 05:23:49] Found 0 orders
+[2025-05-21 05:23:54] Kitchen orders API called
+[2025-05-21 05:23:54] Found 0 orders
+[2025-05-21 05:23:59] Kitchen orders API called
+[2025-05-21 05:23:59] Found 0 orders
+[2025-05-21 05:24:04] Kitchen orders API called
+[2025-05-21 05:24:04] Found 0 orders
+[2025-05-21 05:24:09] Kitchen orders API called
+[2025-05-21 05:24:09] Found 0 orders
+[2025-05-21 05:24:14] Kitchen orders API called
+[2025-05-21 05:24:14] Found 0 orders
+[2025-05-21 05:24:19] Kitchen orders API called
+[2025-05-21 05:24:19] Found 0 orders
+[2025-05-21 05:24:24] Kitchen orders API called
+[2025-05-21 05:24:24] Found 0 orders
+[2025-05-21 05:24:29] Kitchen orders API called
+[2025-05-21 05:24:29] Found 0 orders
+[2025-05-21 05:29:01] Kitchen orders API called
+[2025-05-21 05:29:01] Found 0 orders
+[2025-05-21 05:29:06] Kitchen orders API called
+[2025-05-21 05:29:06] Found 0 orders
+[2025-05-21 05:29:11] Kitchen orders API called
+[2025-05-21 05:29:11] Found 0 orders
+[2025-05-21 05:29:16] Kitchen orders API called
+[2025-05-21 05:29:16] Found 0 orders
+[2025-05-21 05:29:21] Kitchen orders API called
+[2025-05-21 05:29:21] Found 0 orders
+[2025-05-21 05:29:27] Kitchen orders API called
+[2025-05-21 05:29:27] Found 0 orders
+[2025-05-21 05:29:31] Kitchen orders API called
+[2025-05-21 05:29:31] Found 0 orders
+[2025-05-21 05:29:36] Kitchen orders API called
+[2025-05-21 05:29:36] Found 0 orders
+[2025-05-21 05:29:41] Kitchen orders API called
+[2025-05-21 05:29:41] Found 0 orders
+[2025-05-21 05:29:46] Kitchen orders API called
+[2025-05-21 05:29:46] Found 0 orders
+[2025-05-21 05:29:51] Kitchen orders API called
+[2025-05-21 05:29:51] Found 0 orders
+[2025-05-21 05:29:56] Kitchen orders API called
+[2025-05-21 05:29:56] Found 0 orders
+[2025-05-21 05:30:01] Kitchen orders API called
+[2025-05-21 05:30:01] Found 0 orders
+[2025-05-21 05:30:06] Kitchen orders API called
+[2025-05-21 05:30:06] Found 0 orders
+[2025-05-21 05:30:11] Kitchen orders API called
+[2025-05-21 05:30:11] Found 0 orders
+[2025-05-21 05:30:16] Kitchen orders API called
+[2025-05-21 05:30:16] Found 0 orders
+[2025-05-21 05:30:21] Kitchen orders API called
+[2025-05-21 05:30:21] Found 1 orders
+[2025-05-21 05:30:21] Processing order #46
+[2025-05-21 05:30:21] Found 1 items for order #46
+[2025-05-21 05:30:26] Kitchen orders API called
+[2025-05-21 05:30:26] Found 1 orders
+[2025-05-21 05:30:26] Processing order #46
+[2025-05-21 05:30:26] Found 1 items for order #46
+[2025-05-21 05:30:31] Kitchen orders API called
+[2025-05-21 05:30:31] Found 1 orders
+[2025-05-21 05:30:31] Processing order #46
+[2025-05-21 05:30:31] Found 1 items for order #46
+[2025-05-21 05:30:36] Kitchen orders API called
+[2025-05-21 05:30:36] Found 1 orders
+[2025-05-21 05:30:36] Processing order #46
+[2025-05-21 05:30:36] Found 1 items for order #46
+[2025-05-21 05:30:41] Kitchen orders API called
+[2025-05-21 05:30:41] Found 1 orders
+[2025-05-21 05:30:41] Processing order #46
+[2025-05-21 05:30:41] Found 1 items for order #46
+[2025-05-21 05:30:46] Kitchen orders API called
+[2025-05-21 05:30:46] Found 1 orders
+[2025-05-21 05:30:46] Processing order #46
+[2025-05-21 05:30:46] Found 1 items for order #46
+[2025-05-21 05:30:51] Kitchen orders API called
+[2025-05-21 05:30:51] Found 1 orders
+[2025-05-21 05:30:51] Processing order #46
+[2025-05-21 05:30:51] Found 1 items for order #46
+[2025-05-21 05:30:56] Kitchen orders API called
+[2025-05-21 05:30:56] Found 1 orders
+[2025-05-21 05:30:56] Processing order #46
+[2025-05-21 05:30:56] Found 1 items for order #46
+[2025-05-21 05:31:01] Kitchen orders API called
+[2025-05-21 05:31:01] Found 1 orders
+[2025-05-21 05:31:01] Processing order #46
+[2025-05-21 05:31:01] Found 1 items for order #46
+[2025-05-21 05:31:07] Kitchen orders API called
+[2025-05-21 05:31:07] Found 1 orders
+[2025-05-21 05:31:07] Processing order #46
+[2025-05-21 05:31:07] Found 1 items for order #46
+[2025-05-21 05:31:08] Kitchen orders API called
+[2025-05-21 05:31:08] Found 1 orders
+[2025-05-21 05:31:08] Processing order #46
+[2025-05-21 05:31:08] Found 1 items for order #46
+[2025-05-21 05:31:10] Kitchen orders API called
+[2025-05-21 05:31:10] Found 1 orders
+[2025-05-21 05:31:10] Processing order #46
+[2025-05-21 05:31:10] Found 1 items for order #46
+[2025-05-21 05:31:11] Kitchen orders API called
+[2025-05-21 05:31:11] Found 1 orders
+[2025-05-21 05:31:11] Processing order #46
+[2025-05-21 05:31:11] Found 1 items for order #46
+[2025-05-21 05:31:15] Kitchen orders API called
+[2025-05-21 05:31:15] Found 1 orders
+[2025-05-21 05:31:15] Processing order #46
+[2025-05-21 05:31:15] Found 1 items for order #46
+[2025-05-21 05:31:16] Kitchen orders API called
+[2025-05-21 05:31:16] Found 1 orders
+[2025-05-21 05:31:16] Processing order #46
+[2025-05-21 05:31:16] Found 1 items for order #46
+[2025-05-21 05:31:20] Kitchen orders API called
+[2025-05-21 05:31:20] Found 1 orders
+[2025-05-21 05:31:20] Processing order #46
+[2025-05-21 05:31:20] Found 1 items for order #46
+[2025-05-21 05:31:21] Kitchen orders API called
+[2025-05-21 05:31:21] Found 1 orders
+[2025-05-21 05:31:21] Processing order #46
+[2025-05-21 05:31:21] Found 1 items for order #46
+[2025-05-21 05:31:25] Kitchen orders API called
+[2025-05-21 05:31:25] Found 1 orders
+[2025-05-21 05:31:25] Processing order #46
+[2025-05-21 05:31:25] Found 1 items for order #46
+[2025-05-21 05:31:26] Kitchen orders API called
+[2025-05-21 05:31:26] Found 1 orders
+[2025-05-21 05:31:26] Processing order #46
+[2025-05-21 05:31:26] Found 1 items for order #46
+[2025-05-21 05:31:30] Kitchen orders API called
+[2025-05-21 05:31:30] Found 1 orders
+[2025-05-21 05:31:30] Processing order #46
+[2025-05-21 05:31:30] Found 1 items for order #46
+[2025-05-21 05:31:31] Kitchen orders API called
+[2025-05-21 05:31:31] Found 1 orders
+[2025-05-21 05:31:31] Processing order #46
+[2025-05-21 05:31:31] Found 1 items for order #46
+[2025-05-21 05:31:35] Kitchen orders API called
+[2025-05-21 05:31:35] Found 1 orders
+[2025-05-21 05:31:35] Processing order #46
+[2025-05-21 05:31:35] Found 1 items for order #46
+[2025-05-21 05:31:36] Kitchen orders API called
+[2025-05-21 05:31:36] Found 1 orders
+[2025-05-21 05:31:36] Processing order #46
+[2025-05-21 05:31:36] Found 1 items for order #46
+[2025-05-21 05:31:40] Kitchen orders API called
+[2025-05-21 05:31:40] Found 1 orders
+[2025-05-21 05:31:40] Processing order #46
+[2025-05-21 05:31:40] Found 1 items for order #46
+[2025-05-21 05:31:41] Kitchen orders API called
+[2025-05-21 05:31:41] Found 1 orders
+[2025-05-21 05:31:41] Processing order #46
+[2025-05-21 05:31:41] Found 1 items for order #46
+[2025-05-21 05:31:45] Kitchen orders API called
+[2025-05-21 05:31:45] Found 1 orders
+[2025-05-21 05:31:45] Processing order #46
+[2025-05-21 05:31:45] Found 1 items for order #46
+[2025-05-21 05:31:46] Kitchen orders API called
+[2025-05-21 05:31:46] Found 1 orders
+[2025-05-21 05:31:46] Processing order #46
+[2025-05-21 05:31:46] Found 1 items for order #46
+[2025-05-21 05:31:50] Kitchen orders API called
+[2025-05-21 05:31:50] Found 1 orders
+[2025-05-21 05:31:50] Processing order #46
+[2025-05-21 05:31:50] Found 1 items for order #46
+[2025-05-21 05:31:51] Kitchen orders API called
+[2025-05-21 05:31:51] Found 1 orders
+[2025-05-21 05:31:51] Processing order #46
+[2025-05-21 05:31:51] Found 1 items for order #46
+[2025-05-21 05:31:55] Kitchen orders API called
+[2025-05-21 05:31:55] Found 1 orders
+[2025-05-21 05:31:55] Processing order #46
+[2025-05-21 05:31:55] Found 1 items for order #46
+[2025-05-21 05:31:56] Kitchen orders API called
+[2025-05-21 05:31:56] Found 1 orders
+[2025-05-21 05:31:56] Processing order #46
+[2025-05-21 05:31:56] Found 1 items for order #46
+[2025-05-21 05:32:00] Kitchen orders API called
+[2025-05-21 05:32:00] Found 1 orders
+[2025-05-21 05:32:00] Processing order #46
+[2025-05-21 05:32:00] Found 1 items for order #46
+[2025-05-21 05:32:01] Kitchen orders API called
+[2025-05-21 05:32:01] Found 1 orders
+[2025-05-21 05:32:01] Processing order #46
+[2025-05-21 05:32:01] Found 1 items for order #46
+[2025-05-21 05:32:05] Kitchen orders API called
+[2025-05-21 05:32:05] Found 1 orders
+[2025-05-21 05:32:05] Processing order #46
+[2025-05-21 05:32:05] Found 1 items for order #46
+[2025-05-21 05:32:06] Kitchen orders API called
+[2025-05-21 05:32:06] Found 1 orders
+[2025-05-21 05:32:06] Processing order #46
+[2025-05-21 05:32:06] Found 1 items for order #46
+[2025-05-21 05:32:10] Kitchen orders API called
+[2025-05-21 05:32:10] Found 1 orders
+[2025-05-21 05:32:10] Processing order #46
+[2025-05-21 05:32:10] Found 1 items for order #46
+[2025-05-21 05:32:11] Kitchen orders API called
+[2025-05-21 05:32:11] Found 1 orders
+[2025-05-21 05:32:11] Processing order #46
+[2025-05-21 05:32:11] Found 1 items for order #46
+[2025-05-21 05:32:15] Kitchen orders API called
+[2025-05-21 05:32:15] Found 1 orders
+[2025-05-21 05:32:15] Processing order #46
+[2025-05-21 05:32:15] Found 1 items for order #46
+[2025-05-21 05:32:16] Kitchen orders API called
+[2025-05-21 05:32:16] Found 1 orders
+[2025-05-21 05:32:16] Processing order #46
+[2025-05-21 05:32:16] Found 1 items for order #46
+[2025-05-21 05:32:20] Kitchen orders API called
+[2025-05-21 05:32:20] Found 1 orders
+[2025-05-21 05:32:20] Processing order #46
+[2025-05-21 05:32:20] Found 1 items for order #46
+[2025-05-21 05:32:21] Kitchen orders API called
+[2025-05-21 05:32:21] Found 1 orders
+[2025-05-21 05:32:21] Processing order #46
+[2025-05-21 05:32:21] Found 1 items for order #46
+[2025-05-21 05:32:25] Kitchen orders API called
+[2025-05-21 05:32:25] Found 1 orders
+[2025-05-21 05:32:25] Processing order #46
+[2025-05-21 05:32:25] Found 1 items for order #46
+[2025-05-21 05:32:26] Kitchen orders API called
+[2025-05-21 05:32:26] Found 1 orders
+[2025-05-21 05:32:26] Processing order #46
+[2025-05-21 05:32:26] Found 1 items for order #46
+[2025-05-21 05:32:30] Kitchen orders API called
+[2025-05-21 05:32:30] Found 1 orders
+[2025-05-21 05:32:30] Processing order #46
+[2025-05-21 05:32:30] Found 1 items for order #46
+[2025-05-21 05:32:31] Kitchen orders API called
+[2025-05-21 05:32:31] Found 1 orders
+[2025-05-21 05:32:31] Processing order #46
+[2025-05-21 05:32:31] Found 1 items for order #46
+[2025-05-21 05:32:35] Kitchen orders API called
+[2025-05-21 05:32:35] Found 1 orders
+[2025-05-21 05:32:35] Processing order #46
+[2025-05-21 05:32:35] Found 1 items for order #46
+[2025-05-21 05:32:36] Kitchen orders API called
+[2025-05-21 05:32:36] Found 1 orders
+[2025-05-21 05:32:36] Processing order #46
+[2025-05-21 05:32:36] Found 1 items for order #46
+[2025-05-21 05:32:40] Kitchen orders API called
+[2025-05-21 05:32:40] Found 2 orders
+[2025-05-21 05:32:40] Processing order #46
+[2025-05-21 05:32:40] Found 1 items for order #46
+[2025-05-21 05:32:40] Processing order #47
+[2025-05-21 05:32:40] Found 1 items for order #47
+[2025-05-21 05:32:41] Kitchen orders API called
+[2025-05-21 05:32:41] Found 2 orders
+[2025-05-21 05:32:41] Processing order #46
+[2025-05-21 05:32:41] Found 1 items for order #46
+[2025-05-21 05:32:41] Processing order #47
+[2025-05-21 05:32:41] Found 1 items for order #47
+[2025-05-21 05:32:45] Kitchen orders API called
+[2025-05-21 05:32:45] Found 2 orders
+[2025-05-21 05:32:45] Processing order #46
+[2025-05-21 05:32:45] Found 1 items for order #46
+[2025-05-21 05:32:45] Processing order #47
+[2025-05-21 05:32:45] Found 1 items for order #47
+[2025-05-21 05:32:46] Kitchen orders API called
+[2025-05-21 05:32:46] Found 2 orders
+[2025-05-21 05:32:46] Processing order #46
+[2025-05-21 05:32:46] Found 1 items for order #46
+[2025-05-21 05:32:46] Processing order #47
+[2025-05-21 05:32:46] Found 1 items for order #47
+[2025-05-21 05:32:50] Kitchen orders API called
+[2025-05-21 05:32:50] Found 2 orders
+[2025-05-21 05:32:50] Processing order #46
+[2025-05-21 05:32:50] Found 1 items for order #46
+[2025-05-21 05:32:50] Processing order #47
+[2025-05-21 05:32:50] Found 1 items for order #47
+[2025-05-21 05:32:51] Kitchen orders API called
+[2025-05-21 05:32:51] Found 2 orders
+[2025-05-21 05:32:51] Processing order #46
+[2025-05-21 05:32:51] Found 1 items for order #46
+[2025-05-21 05:32:51] Processing order #47
+[2025-05-21 05:32:51] Found 1 items for order #47
+[2025-05-21 05:32:55] Kitchen orders API called
+[2025-05-21 05:32:55] Found 2 orders
+[2025-05-21 05:32:55] Processing order #46
+[2025-05-21 05:32:55] Found 1 items for order #46
+[2025-05-21 05:32:55] Processing order #47
+[2025-05-21 05:32:55] Found 1 items for order #47
+[2025-05-21 05:32:56] Kitchen orders API called
+[2025-05-21 05:32:56] Found 2 orders
+[2025-05-21 05:32:56] Processing order #46
+[2025-05-21 05:32:56] Found 1 items for order #46
+[2025-05-21 05:32:56] Processing order #47
+[2025-05-21 05:32:56] Found 1 items for order #47
+[2025-05-21 05:33:00] Kitchen orders API called
+[2025-05-21 05:33:00] Found 2 orders
+[2025-05-21 05:33:00] Processing order #46
+[2025-05-21 05:33:00] Found 1 items for order #46
+[2025-05-21 05:33:00] Processing order #47
+[2025-05-21 05:33:00] Found 1 items for order #47
+[2025-05-21 05:33:01] Kitchen orders API called
+[2025-05-21 05:33:01] Found 2 orders
+[2025-05-21 05:33:01] Processing order #46
+[2025-05-21 05:33:01] Found 1 items for order #46
+[2025-05-21 05:33:01] Processing order #47
+[2025-05-21 05:33:01] Found 1 items for order #47
+[2025-05-21 05:33:05] Kitchen orders API called
+[2025-05-21 05:33:05] Found 2 orders
+[2025-05-21 05:33:05] Processing order #46
+[2025-05-21 05:33:05] Found 1 items for order #46
+[2025-05-21 05:33:05] Processing order #47
+[2025-05-21 05:33:05] Found 1 items for order #47
+[2025-05-21 05:33:06] Kitchen orders API called
+[2025-05-21 05:33:06] Found 2 orders
+[2025-05-21 05:33:06] Processing order #46
+[2025-05-21 05:33:06] Found 1 items for order #46
+[2025-05-21 05:33:06] Processing order #47
+[2025-05-21 05:33:06] Found 1 items for order #47
+[2025-05-21 05:33:10] Kitchen orders API called
+[2025-05-21 05:33:10] Found 2 orders
+[2025-05-21 05:33:10] Processing order #46
+[2025-05-21 05:33:10] Found 1 items for order #46
+[2025-05-21 05:33:10] Processing order #47
+[2025-05-21 05:33:10] Found 1 items for order #47
+[2025-05-21 05:33:11] Kitchen orders API called
+[2025-05-21 05:33:11] Found 2 orders
+[2025-05-21 05:33:11] Processing order #46
+[2025-05-21 05:33:11] Found 1 items for order #46
+[2025-05-21 05:33:11] Processing order #47
+[2025-05-21 05:33:11] Found 1 items for order #47
+[2025-05-21 05:33:15] Kitchen orders API called
+[2025-05-21 05:33:15] Found 2 orders
+[2025-05-21 05:33:15] Processing order #46
+[2025-05-21 05:33:15] Found 1 items for order #46
+[2025-05-21 05:33:15] Processing order #47
+[2025-05-21 05:33:15] Found 1 items for order #47
+[2025-05-21 05:33:16] Kitchen orders API called
+[2025-05-21 05:33:16] Found 2 orders
+[2025-05-21 05:33:16] Processing order #46
+[2025-05-21 05:33:16] Found 1 items for order #46
+[2025-05-21 05:33:16] Processing order #47
+[2025-05-21 05:33:16] Found 1 items for order #47
+[2025-05-21 05:33:20] Kitchen orders API called
+[2025-05-21 05:33:20] Found 2 orders
+[2025-05-21 05:33:20] Processing order #46
+[2025-05-21 05:33:20] Found 1 items for order #46
+[2025-05-21 05:33:20] Processing order #47
+[2025-05-21 05:33:20] Found 1 items for order #47
+[2025-05-21 05:33:21] Kitchen orders API called
+[2025-05-21 05:33:21] Found 2 orders
+[2025-05-21 05:33:21] Processing order #46
+[2025-05-21 05:33:21] Found 1 items for order #46
+[2025-05-21 05:33:21] Processing order #47
+[2025-05-21 05:33:21] Found 1 items for order #47
+[2025-05-21 05:33:25] Kitchen orders API called
+[2025-05-21 05:33:25] Found 2 orders
+[2025-05-21 05:33:25] Processing order #46
+[2025-05-21 05:33:25] Found 1 items for order #46
+[2025-05-21 05:33:25] Processing order #47
+[2025-05-21 05:33:25] Found 1 items for order #47
+[2025-05-21 05:33:26] Kitchen orders API called
+[2025-05-21 05:33:26] Found 2 orders
+[2025-05-21 05:33:26] Processing order #46
+[2025-05-21 05:33:26] Found 1 items for order #46
+[2025-05-21 05:33:26] Processing order #47
+[2025-05-21 05:33:26] Found 1 items for order #47
+[2025-05-21 05:33:30] Kitchen orders API called
+[2025-05-21 05:33:30] Found 2 orders
+[2025-05-21 05:33:30] Processing order #46
+[2025-05-21 05:33:30] Found 1 items for order #46
+[2025-05-21 05:33:30] Processing order #47
+[2025-05-21 05:33:30] Found 1 items for order #47
+[2025-05-21 05:33:31] Kitchen orders API called
+[2025-05-21 05:33:31] Found 2 orders
+[2025-05-21 05:33:31] Processing order #46
+[2025-05-21 05:33:31] Found 1 items for order #46
+[2025-05-21 05:33:31] Processing order #47
+[2025-05-21 05:33:31] Found 1 items for order #47
+[2025-05-21 05:33:35] Kitchen orders API called
+[2025-05-21 05:33:35] Found 2 orders
+[2025-05-21 05:33:35] Processing order #46
+[2025-05-21 05:33:35] Found 1 items for order #46
+[2025-05-21 05:33:35] Processing order #47
+[2025-05-21 05:33:35] Found 1 items for order #47
+[2025-05-21 05:33:36] Kitchen orders API called
+[2025-05-21 05:33:36] Found 2 orders
+[2025-05-21 05:33:36] Processing order #46
+[2025-05-21 05:33:36] Found 1 items for order #46
+[2025-05-21 05:33:36] Processing order #47
+[2025-05-21 05:33:36] Found 1 items for order #47
+[2025-05-21 05:33:40] Kitchen orders API called
+[2025-05-21 05:33:40] Found 2 orders
+[2025-05-21 05:33:40] Processing order #46
+[2025-05-21 05:33:40] Found 1 items for order #46
+[2025-05-21 05:33:40] Processing order #47
+[2025-05-21 05:33:40] Found 1 items for order #47
+[2025-05-21 05:33:41] Kitchen orders API called
+[2025-05-21 05:33:41] Found 2 orders
+[2025-05-21 05:33:41] Processing order #46
+[2025-05-21 05:33:41] Found 1 items for order #46
+[2025-05-21 05:33:41] Processing order #47
+[2025-05-21 05:33:41] Found 1 items for order #47
+[2025-05-21 05:33:45] Kitchen orders API called
+[2025-05-21 05:33:45] Found 2 orders
+[2025-05-21 05:33:45] Processing order #46
+[2025-05-21 05:33:45] Found 1 items for order #46
+[2025-05-21 05:33:45] Processing order #47
+[2025-05-21 05:33:45] Found 1 items for order #47
+[2025-05-21 05:33:46] Kitchen orders API called
+[2025-05-21 05:33:46] Found 2 orders
+[2025-05-21 05:33:46] Processing order #46
+[2025-05-21 05:33:46] Found 1 items for order #46
+[2025-05-21 05:33:46] Processing order #47
+[2025-05-21 05:33:46] Found 1 items for order #47
+[2025-05-21 05:33:50] Kitchen orders API called
+[2025-05-21 05:33:50] Found 2 orders
+[2025-05-21 05:33:50] Processing order #46
+[2025-05-21 05:33:50] Found 1 items for order #46
+[2025-05-21 05:33:50] Processing order #47
+[2025-05-21 05:33:50] Found 1 items for order #47
+[2025-05-21 05:33:51] Kitchen orders API called
+[2025-05-21 05:33:51] Found 2 orders
+[2025-05-21 05:33:51] Processing order #46
+[2025-05-21 05:33:51] Found 1 items for order #46
+[2025-05-21 05:33:51] Processing order #47
+[2025-05-21 05:33:51] Found 1 items for order #47
+[2025-05-21 05:33:55] Kitchen orders API called
+[2025-05-21 05:33:55] Found 2 orders
+[2025-05-21 05:33:55] Processing order #46
+[2025-05-21 05:33:55] Found 1 items for order #46
+[2025-05-21 05:33:55] Processing order #47
+[2025-05-21 05:33:55] Found 1 items for order #47
+[2025-05-21 05:33:56] Kitchen orders API called
+[2025-05-21 05:33:56] Found 2 orders
+[2025-05-21 05:33:56] Processing order #46
+[2025-05-21 05:33:56] Found 1 items for order #46
+[2025-05-21 05:33:56] Processing order #47
+[2025-05-21 05:33:56] Found 1 items for order #47
+[2025-05-21 05:34:00] Kitchen orders API called
+[2025-05-21 05:34:00] Found 2 orders
+[2025-05-21 05:34:00] Processing order #46
+[2025-05-21 05:34:00] Found 1 items for order #46
+[2025-05-21 05:34:00] Processing order #47
+[2025-05-21 05:34:00] Found 1 items for order #47
+[2025-05-21 05:34:01] Kitchen orders API called
+[2025-05-21 05:34:01] Found 2 orders
+[2025-05-21 05:34:01] Processing order #46
+[2025-05-21 05:34:01] Found 1 items for order #46
+[2025-05-21 05:34:01] Processing order #47
+[2025-05-21 05:34:01] Found 1 items for order #47
+[2025-05-21 05:34:05] Kitchen orders API called
+[2025-05-21 05:34:05] Found 2 orders
+[2025-05-21 05:34:05] Processing order #46
+[2025-05-21 05:34:05] Found 1 items for order #46
+[2025-05-21 05:34:05] Processing order #47
+[2025-05-21 05:34:05] Found 1 items for order #47
+[2025-05-21 05:34:06] Kitchen orders API called
+[2025-05-21 05:34:06] Found 2 orders
+[2025-05-21 05:34:06] Processing order #46
+[2025-05-21 05:34:06] Found 1 items for order #46
+[2025-05-21 05:34:06] Processing order #47
+[2025-05-21 05:34:06] Found 1 items for order #47
+[2025-05-21 05:34:10] Kitchen orders API called
+[2025-05-21 05:34:10] Found 2 orders
+[2025-05-21 05:34:10] Processing order #46
+[2025-05-21 05:34:10] Found 1 items for order #46
+[2025-05-21 05:34:10] Processing order #47
+[2025-05-21 05:34:10] Found 1 items for order #47
+[2025-05-21 05:34:11] Kitchen orders API called
+[2025-05-21 05:34:11] Found 2 orders
+[2025-05-21 05:34:11] Processing order #46
+[2025-05-21 05:34:11] Found 1 items for order #46
+[2025-05-21 05:34:11] Processing order #47
+[2025-05-21 05:34:11] Found 1 items for order #47
+[2025-05-21 05:34:15] Kitchen orders API called
+[2025-05-21 05:34:15] Found 2 orders
+[2025-05-21 05:34:15] Processing order #46
+[2025-05-21 05:34:15] Found 1 items for order #46
+[2025-05-21 05:34:15] Processing order #47
+[2025-05-21 05:34:15] Found 1 items for order #47
+[2025-05-21 05:34:16] Kitchen orders API called
+[2025-05-21 05:34:16] Found 2 orders
+[2025-05-21 05:34:16] Processing order #46
+[2025-05-21 05:34:16] Found 1 items for order #46
+[2025-05-21 05:34:16] Processing order #47
+[2025-05-21 05:34:16] Found 1 items for order #47
+[2025-05-21 05:34:20] Kitchen orders API called
+[2025-05-21 05:34:20] Found 2 orders
+[2025-05-21 05:34:20] Processing order #46
+[2025-05-21 05:34:20] Found 1 items for order #46
+[2025-05-21 05:34:20] Processing order #47
+[2025-05-21 05:34:20] Found 1 items for order #47
+[2025-05-21 05:34:21] Kitchen orders API called
+[2025-05-21 05:34:21] Found 2 orders
+[2025-05-21 05:34:21] Processing order #46
+[2025-05-21 05:34:21] Found 1 items for order #46
+[2025-05-21 05:34:21] Processing order #47
+[2025-05-21 05:34:21] Found 1 items for order #47
+[2025-05-21 05:34:25] Kitchen orders API called
+[2025-05-21 05:34:25] Found 2 orders
+[2025-05-21 05:34:25] Processing order #46
+[2025-05-21 05:34:25] Found 1 items for order #46
+[2025-05-21 05:34:25] Processing order #47
+[2025-05-21 05:34:25] Found 1 items for order #47
+[2025-05-21 05:34:26] Kitchen orders API called
+[2025-05-21 05:34:26] Found 2 orders
+[2025-05-21 05:34:26] Processing order #46
+[2025-05-21 05:34:26] Found 1 items for order #46
+[2025-05-21 05:34:26] Processing order #47
+[2025-05-21 05:34:26] Found 1 items for order #47
+[2025-05-21 05:34:30] Kitchen orders API called
+[2025-05-21 05:34:30] Found 2 orders
+[2025-05-21 05:34:30] Processing order #46
+[2025-05-21 05:34:30] Found 1 items for order #46
+[2025-05-21 05:34:30] Processing order #47
+[2025-05-21 05:34:30] Found 1 items for order #47
+[2025-05-21 05:34:31] Kitchen orders API called
+[2025-05-21 05:34:31] Found 3 orders
+[2025-05-21 05:34:31] Processing order #46
+[2025-05-21 05:34:31] Found 1 items for order #46
+[2025-05-21 05:34:31] Processing order #47
+[2025-05-21 05:34:31] Found 1 items for order #47
+[2025-05-21 05:34:31] Processing order #48
+[2025-05-21 05:34:31] Found 1 items for order #48
+[2025-05-21 05:34:35] Kitchen orders API called
+[2025-05-21 05:34:35] Found 3 orders
+[2025-05-21 05:34:35] Processing order #46
+[2025-05-21 05:34:35] Found 1 items for order #46
+[2025-05-21 05:34:35] Processing order #47
+[2025-05-21 05:34:35] Found 1 items for order #47
+[2025-05-21 05:34:35] Processing order #48
+[2025-05-21 05:34:35] Found 1 items for order #48
+[2025-05-21 05:34:36] Kitchen orders API called
+[2025-05-21 05:34:36] Found 3 orders
+[2025-05-21 05:34:36] Processing order #46
+[2025-05-21 05:34:36] Found 1 items for order #46
+[2025-05-21 05:34:36] Processing order #47
+[2025-05-21 05:34:36] Found 1 items for order #47
+[2025-05-21 05:34:36] Processing order #48
+[2025-05-21 05:34:36] Found 1 items for order #48
+[2025-05-21 05:34:40] Kitchen orders API called
+[2025-05-21 05:34:40] Found 3 orders
+[2025-05-21 05:34:40] Processing order #46
+[2025-05-21 05:34:40] Found 1 items for order #46
+[2025-05-21 05:34:40] Processing order #47
+[2025-05-21 05:34:40] Found 1 items for order #47
+[2025-05-21 05:34:40] Processing order #48
+[2025-05-21 05:34:40] Found 1 items for order #48
+[2025-05-21 05:34:41] Kitchen orders API called
+[2025-05-21 05:34:41] Found 3 orders
+[2025-05-21 05:34:41] Processing order #46
+[2025-05-21 05:34:41] Found 1 items for order #46
+[2025-05-21 05:34:41] Processing order #47
+[2025-05-21 05:34:41] Found 1 items for order #47
+[2025-05-21 05:34:41] Processing order #48
+[2025-05-21 05:34:41] Found 1 items for order #48
+[2025-05-21 05:34:45] Kitchen orders API called
+[2025-05-21 05:34:45] Found 3 orders
+[2025-05-21 05:34:45] Processing order #46
+[2025-05-21 05:34:45] Found 1 items for order #46
+[2025-05-21 05:34:45] Processing order #47
+[2025-05-21 05:34:45] Found 1 items for order #47
+[2025-05-21 05:34:45] Processing order #48
+[2025-05-21 05:34:45] Found 1 items for order #48
+[2025-05-21 05:34:46] Kitchen orders API called
+[2025-05-21 05:34:46] Found 3 orders
+[2025-05-21 05:34:46] Processing order #46
+[2025-05-21 05:34:46] Found 1 items for order #46
+[2025-05-21 05:34:46] Processing order #47
+[2025-05-21 05:34:46] Found 1 items for order #47
+[2025-05-21 05:34:46] Processing order #48
+[2025-05-21 05:34:46] Found 1 items for order #48
+[2025-05-21 05:34:50] Kitchen orders API called
+[2025-05-21 05:34:50] Found 3 orders
+[2025-05-21 05:34:50] Processing order #46
+[2025-05-21 05:34:50] Found 1 items for order #46
+[2025-05-21 05:34:50] Processing order #47
+[2025-05-21 05:34:50] Found 1 items for order #47
+[2025-05-21 05:34:50] Processing order #48
+[2025-05-21 05:34:50] Found 1 items for order #48
+[2025-05-21 05:34:51] Kitchen orders API called
+[2025-05-21 05:34:51] Found 3 orders
+[2025-05-21 05:34:51] Processing order #46
+[2025-05-21 05:34:51] Found 1 items for order #46
+[2025-05-21 05:34:51] Processing order #47
+[2025-05-21 05:34:51] Found 1 items for order #47
+[2025-05-21 05:34:51] Processing order #48
+[2025-05-21 05:34:51] Found 1 items for order #48
+[2025-05-21 05:34:55] Kitchen orders API called
+[2025-05-21 05:34:55] Found 3 orders
+[2025-05-21 05:34:55] Processing order #46
+[2025-05-21 05:34:55] Found 1 items for order #46
+[2025-05-21 05:34:55] Processing order #47
+[2025-05-21 05:34:55] Found 1 items for order #47
+[2025-05-21 05:34:55] Processing order #48
+[2025-05-21 05:34:55] Found 1 items for order #48
+[2025-05-21 05:34:56] Kitchen orders API called
+[2025-05-21 05:34:56] Found 3 orders
+[2025-05-21 05:34:56] Processing order #46
+[2025-05-21 05:34:56] Found 1 items for order #46
+[2025-05-21 05:34:56] Processing order #47
+[2025-05-21 05:34:56] Found 1 items for order #47
+[2025-05-21 05:34:56] Processing order #48
+[2025-05-21 05:34:56] Found 1 items for order #48
+[2025-05-21 05:35:00] Kitchen orders API called
+[2025-05-21 05:35:00] Found 3 orders
+[2025-05-21 05:35:00] Processing order #46
+[2025-05-21 05:35:00] Found 1 items for order #46
+[2025-05-21 05:35:00] Processing order #47
+[2025-05-21 05:35:00] Found 1 items for order #47
+[2025-05-21 05:35:00] Processing order #48
+[2025-05-21 05:35:00] Found 1 items for order #48
+[2025-05-21 05:35:01] Kitchen orders API called
+[2025-05-21 05:35:01] Found 3 orders
+[2025-05-21 05:35:01] Processing order #46
+[2025-05-21 05:35:01] Found 1 items for order #46
+[2025-05-21 05:35:01] Processing order #47
+[2025-05-21 05:35:01] Found 1 items for order #47
+[2025-05-21 05:35:01] Processing order #48
+[2025-05-21 05:35:01] Found 1 items for order #48
+[2025-05-21 05:35:05] Kitchen orders API called
+[2025-05-21 05:35:05] Found 3 orders
+[2025-05-21 05:35:05] Processing order #46
+[2025-05-21 05:35:05] Found 1 items for order #46
+[2025-05-21 05:35:05] Processing order #47
+[2025-05-21 05:35:05] Found 1 items for order #47
+[2025-05-21 05:35:05] Processing order #48
+[2025-05-21 05:35:05] Found 1 items for order #48
+[2025-05-21 05:35:06] Kitchen orders API called
+[2025-05-21 05:35:06] Found 3 orders
+[2025-05-21 05:35:06] Processing order #46
+[2025-05-21 05:35:06] Found 1 items for order #46
+[2025-05-21 05:35:06] Processing order #47
+[2025-05-21 05:35:06] Found 1 items for order #47
+[2025-05-21 05:35:06] Processing order #48
+[2025-05-21 05:35:06] Found 1 items for order #48
+[2025-05-21 05:35:10] Kitchen orders API called
+[2025-05-21 05:35:10] Found 3 orders
+[2025-05-21 05:35:10] Processing order #46
+[2025-05-21 05:35:10] Found 1 items for order #46
+[2025-05-21 05:35:10] Processing order #47
+[2025-05-21 05:35:10] Found 1 items for order #47
+[2025-05-21 05:35:10] Processing order #48
+[2025-05-21 05:35:10] Found 1 items for order #48
+[2025-05-21 05:35:11] Kitchen orders API called
+[2025-05-21 05:35:11] Found 3 orders
+[2025-05-21 05:35:11] Processing order #46
+[2025-05-21 05:35:11] Found 1 items for order #46
+[2025-05-21 05:35:11] Processing order #47
+[2025-05-21 05:35:11] Found 1 items for order #47
+[2025-05-21 05:35:11] Processing order #48
+[2025-05-21 05:35:11] Found 1 items for order #48
+[2025-05-21 05:35:15] Kitchen orders API called
+[2025-05-21 05:35:15] Found 3 orders
+[2025-05-21 05:35:15] Processing order #46
+[2025-05-21 05:35:15] Found 1 items for order #46
+[2025-05-21 05:35:15] Processing order #47
+[2025-05-21 05:35:15] Found 1 items for order #47
+[2025-05-21 05:35:15] Processing order #48
+[2025-05-21 05:35:15] Found 1 items for order #48
+[2025-05-21 05:35:16] Kitchen orders API called
+[2025-05-21 05:35:16] Found 3 orders
+[2025-05-21 05:35:16] Processing order #46
+[2025-05-21 05:35:16] Found 1 items for order #46
+[2025-05-21 05:35:16] Processing order #47
+[2025-05-21 05:35:16] Found 1 items for order #47
+[2025-05-21 05:35:16] Processing order #48
+[2025-05-21 05:35:16] Found 1 items for order #48
+[2025-05-21 05:35:20] Kitchen orders API called
+[2025-05-21 05:35:20] Found 3 orders
+[2025-05-21 05:35:20] Processing order #46
+[2025-05-21 05:35:20] Found 1 items for order #46
+[2025-05-21 05:35:20] Processing order #47
+[2025-05-21 05:35:20] Found 1 items for order #47
+[2025-05-21 05:35:20] Processing order #48
+[2025-05-21 05:35:20] Found 1 items for order #48
+[2025-05-21 05:35:21] Kitchen orders API called
+[2025-05-21 05:35:21] Found 3 orders
+[2025-05-21 05:35:21] Processing order #46
+[2025-05-21 05:35:21] Found 1 items for order #46
+[2025-05-21 05:35:21] Processing order #47
+[2025-05-21 05:35:21] Found 1 items for order #47
+[2025-05-21 05:35:21] Processing order #48
+[2025-05-21 05:35:21] Found 1 items for order #48
+[2025-05-21 05:35:25] Kitchen orders API called
+[2025-05-21 05:35:25] Found 3 orders
+[2025-05-21 05:35:25] Processing order #46
+[2025-05-21 05:35:25] Found 1 items for order #46
+[2025-05-21 05:35:25] Processing order #47
+[2025-05-21 05:35:25] Found 1 items for order #47
+[2025-05-21 05:35:25] Processing order #48
+[2025-05-21 05:35:25] Found 1 items for order #48
+[2025-05-21 05:35:26] Kitchen orders API called
+[2025-05-21 05:35:26] Found 3 orders
+[2025-05-21 05:35:26] Processing order #46
+[2025-05-21 05:35:26] Found 1 items for order #46
+[2025-05-21 05:35:26] Processing order #47
+[2025-05-21 05:35:26] Found 1 items for order #47
+[2025-05-21 05:35:26] Processing order #48
+[2025-05-21 05:35:26] Found 1 items for order #48
+[2025-05-21 05:35:30] Kitchen orders API called
+[2025-05-21 05:35:30] Found 3 orders
+[2025-05-21 05:35:30] Processing order #46
+[2025-05-21 05:35:30] Found 1 items for order #46
+[2025-05-21 05:35:30] Processing order #47
+[2025-05-21 05:35:30] Found 1 items for order #47
+[2025-05-21 05:35:30] Processing order #48
+[2025-05-21 05:35:30] Found 1 items for order #48
+[2025-05-21 05:35:31] Kitchen orders API called
+[2025-05-21 05:35:31] Found 3 orders
+[2025-05-21 05:35:31] Processing order #46
+[2025-05-21 05:35:31] Found 1 items for order #46
+[2025-05-21 05:35:31] Processing order #47
+[2025-05-21 05:35:31] Found 1 items for order #47
+[2025-05-21 05:35:31] Processing order #48
+[2025-05-21 05:35:31] Found 1 items for order #48
+[2025-05-21 05:35:35] Kitchen orders API called
+[2025-05-21 05:35:35] Found 3 orders
+[2025-05-21 05:35:35] Processing order #46
+[2025-05-21 05:35:35] Found 1 items for order #46
+[2025-05-21 05:35:35] Processing order #47
+[2025-05-21 05:35:35] Found 1 items for order #47
+[2025-05-21 05:35:35] Processing order #48
+[2025-05-21 05:35:35] Found 1 items for order #48
+[2025-05-21 05:35:36] Kitchen orders API called
+[2025-05-21 05:35:36] Found 3 orders
+[2025-05-21 05:35:36] Processing order #46
+[2025-05-21 05:35:36] Found 1 items for order #46
+[2025-05-21 05:35:36] Processing order #47
+[2025-05-21 05:35:36] Found 1 items for order #47
+[2025-05-21 05:35:36] Processing order #48
+[2025-05-21 05:35:36] Found 1 items for order #48
+[2025-05-21 05:35:40] Kitchen orders API called
+[2025-05-21 05:35:40] Found 3 orders
+[2025-05-21 05:35:40] Processing order #46
+[2025-05-21 05:35:40] Found 1 items for order #46
+[2025-05-21 05:35:40] Processing order #47
+[2025-05-21 05:35:40] Found 1 items for order #47
+[2025-05-21 05:35:40] Processing order #48
+[2025-05-21 05:35:40] Found 1 items for order #48
+[2025-05-21 05:35:41] Kitchen orders API called
+[2025-05-21 05:35:41] Found 3 orders
+[2025-05-21 05:35:41] Processing order #46
+[2025-05-21 05:35:41] Found 1 items for order #46
+[2025-05-21 05:35:41] Processing order #47
+[2025-05-21 05:35:41] Found 1 items for order #47
+[2025-05-21 05:35:41] Processing order #48
+[2025-05-21 05:35:41] Found 1 items for order #48
+[2025-05-21 05:35:45] Kitchen orders API called
+[2025-05-21 05:35:45] Found 3 orders
+[2025-05-21 05:35:45] Processing order #46
+[2025-05-21 05:35:45] Found 1 items for order #46
+[2025-05-21 05:35:45] Processing order #47
+[2025-05-21 05:35:45] Found 1 items for order #47
+[2025-05-21 05:35:45] Processing order #48
+[2025-05-21 05:35:45] Found 1 items for order #48
+[2025-05-21 05:35:46] Kitchen orders API called
+[2025-05-21 05:35:46] Found 3 orders
+[2025-05-21 05:35:46] Processing order #46
+[2025-05-21 05:35:46] Found 1 items for order #46
+[2025-05-21 05:35:46] Processing order #47
+[2025-05-21 05:35:46] Found 1 items for order #47
+[2025-05-21 05:35:46] Processing order #48
+[2025-05-21 05:35:46] Found 1 items for order #48
+[2025-05-21 05:35:50] Kitchen orders API called
+[2025-05-21 05:35:50] Found 3 orders
+[2025-05-21 05:35:50] Processing order #46
+[2025-05-21 05:35:50] Found 1 items for order #46
+[2025-05-21 05:35:50] Processing order #47
+[2025-05-21 05:35:50] Found 1 items for order #47
+[2025-05-21 05:35:50] Processing order #48
+[2025-05-21 05:35:50] Found 1 items for order #48
+[2025-05-21 05:35:51] Kitchen orders API called
+[2025-05-21 05:35:51] Found 3 orders
+[2025-05-21 05:35:51] Processing order #46
+[2025-05-21 05:35:51] Found 1 items for order #46
+[2025-05-21 05:35:51] Processing order #47
+[2025-05-21 05:35:51] Found 1 items for order #47
+[2025-05-21 05:35:51] Processing order #48
+[2025-05-21 05:35:51] Found 1 items for order #48
+[2025-05-21 05:35:55] Kitchen orders API called
+[2025-05-21 05:35:55] Found 3 orders
+[2025-05-21 05:35:55] Processing order #46
+[2025-05-21 05:35:55] Found 1 items for order #46
+[2025-05-21 05:35:55] Processing order #47
+[2025-05-21 05:35:55] Found 1 items for order #47
+[2025-05-21 05:35:55] Processing order #48
+[2025-05-21 05:35:55] Found 1 items for order #48
+[2025-05-21 05:35:56] Kitchen orders API called
+[2025-05-21 05:35:56] Found 3 orders
+[2025-05-21 05:35:56] Processing order #46
+[2025-05-21 05:35:56] Found 1 items for order #46
+[2025-05-21 05:35:56] Processing order #47
+[2025-05-21 05:35:56] Found 1 items for order #47
+[2025-05-21 05:35:56] Processing order #48
+[2025-05-21 05:35:56] Found 1 items for order #48
+[2025-05-21 05:36:00] Kitchen orders API called
+[2025-05-21 05:36:00] Found 3 orders
+[2025-05-21 05:36:00] Processing order #46
+[2025-05-21 05:36:00] Found 1 items for order #46
+[2025-05-21 05:36:00] Processing order #47
+[2025-05-21 05:36:00] Found 1 items for order #47
+[2025-05-21 05:36:00] Processing order #48
+[2025-05-21 05:36:00] Found 1 items for order #48
+[2025-05-21 05:36:01] Kitchen orders API called
+[2025-05-21 05:36:01] Found 3 orders
+[2025-05-21 05:36:01] Processing order #46
+[2025-05-21 05:36:01] Found 1 items for order #46
+[2025-05-21 05:36:01] Processing order #47
+[2025-05-21 05:36:01] Found 1 items for order #47
+[2025-05-21 05:36:01] Processing order #48
+[2025-05-21 05:36:01] Found 1 items for order #48
+[2025-05-21 05:36:05] Kitchen orders API called
+[2025-05-21 05:36:05] Found 3 orders
+[2025-05-21 05:36:05] Processing order #46
+[2025-05-21 05:36:05] Found 1 items for order #46
+[2025-05-21 05:36:05] Processing order #47
+[2025-05-21 05:36:05] Found 1 items for order #47
+[2025-05-21 05:36:05] Processing order #48
+[2025-05-21 05:36:05] Found 1 items for order #48
+[2025-05-21 05:36:06] Kitchen orders API called
+[2025-05-21 05:36:06] Found 3 orders
+[2025-05-21 05:36:06] Processing order #46
+[2025-05-21 05:36:06] Found 1 items for order #46
+[2025-05-21 05:36:06] Processing order #47
+[2025-05-21 05:36:06] Found 1 items for order #47
+[2025-05-21 05:36:06] Processing order #48
+[2025-05-21 05:36:06] Found 1 items for order #48
+[2025-05-21 05:36:10] Kitchen orders API called
+[2025-05-21 05:36:10] Found 3 orders
+[2025-05-21 05:36:10] Processing order #46
+[2025-05-21 05:36:10] Found 1 items for order #46
+[2025-05-21 05:36:10] Processing order #47
+[2025-05-21 05:36:10] Found 1 items for order #47
+[2025-05-21 05:36:10] Processing order #48
+[2025-05-21 05:36:10] Found 1 items for order #48
+[2025-05-21 05:36:11] Kitchen orders API called
+[2025-05-21 05:36:11] Found 3 orders
+[2025-05-21 05:36:11] Processing order #46
+[2025-05-21 05:36:11] Found 1 items for order #46
+[2025-05-21 05:36:11] Processing order #47
+[2025-05-21 05:36:11] Found 1 items for order #47
+[2025-05-21 05:36:11] Processing order #48
+[2025-05-21 05:36:11] Found 1 items for order #48
+[2025-05-21 05:36:15] Kitchen orders API called
+[2025-05-21 05:36:15] Found 3 orders
+[2025-05-21 05:36:15] Processing order #46
+[2025-05-21 05:36:15] Found 1 items for order #46
+[2025-05-21 05:36:15] Processing order #47
+[2025-05-21 05:36:15] Found 1 items for order #47
+[2025-05-21 05:36:15] Processing order #48
+[2025-05-21 05:36:15] Found 1 items for order #48
+[2025-05-21 05:36:16] Kitchen orders API called
+[2025-05-21 05:36:16] Found 3 orders
+[2025-05-21 05:36:16] Processing order #46
+[2025-05-21 05:36:16] Found 1 items for order #46
+[2025-05-21 05:36:16] Processing order #47
+[2025-05-21 05:36:16] Found 1 items for order #47
+[2025-05-21 05:36:16] Processing order #48
+[2025-05-21 05:36:16] Found 1 items for order #48
+[2025-05-21 05:36:20] Kitchen orders API called
+[2025-05-21 05:36:20] Found 3 orders
+[2025-05-21 05:36:20] Processing order #46
+[2025-05-21 05:36:20] Found 1 items for order #46
+[2025-05-21 05:36:20] Processing order #47
+[2025-05-21 05:36:20] Found 1 items for order #47
+[2025-05-21 05:36:20] Processing order #48
+[2025-05-21 05:36:20] Found 1 items for order #48
+[2025-05-21 05:36:21] Kitchen orders API called
+[2025-05-21 05:36:21] Found 3 orders
+[2025-05-21 05:36:21] Processing order #46
+[2025-05-21 05:36:21] Found 1 items for order #46
+[2025-05-21 05:36:21] Processing order #47
+[2025-05-21 05:36:21] Found 1 items for order #47
+[2025-05-21 05:36:21] Processing order #48
+[2025-05-21 05:36:21] Found 1 items for order #48
+[2025-05-21 05:36:25] Kitchen orders API called
+[2025-05-21 05:36:25] Found 3 orders
+[2025-05-21 05:36:25] Processing order #46
+[2025-05-21 05:36:25] Found 1 items for order #46
+[2025-05-21 05:36:25] Processing order #47
+[2025-05-21 05:36:25] Found 1 items for order #47
+[2025-05-21 05:36:25] Processing order #48
+[2025-05-21 05:36:25] Found 1 items for order #48
+[2025-05-21 05:36:26] Kitchen orders API called
+[2025-05-21 05:36:26] Found 3 orders
+[2025-05-21 05:36:26] Processing order #46
+[2025-05-21 05:36:26] Found 1 items for order #46
+[2025-05-21 05:36:26] Processing order #47
+[2025-05-21 05:36:26] Found 1 items for order #47
+[2025-05-21 05:36:26] Processing order #48
+[2025-05-21 05:36:26] Found 1 items for order #48
+[2025-05-21 05:36:30] Kitchen orders API called
+[2025-05-21 05:36:30] Found 3 orders
+[2025-05-21 05:36:30] Processing order #46
+[2025-05-21 05:36:30] Found 1 items for order #46
+[2025-05-21 05:36:30] Processing order #47
+[2025-05-21 05:36:30] Found 1 items for order #47
+[2025-05-21 05:36:30] Processing order #48
+[2025-05-21 05:36:30] Found 1 items for order #48
+[2025-05-21 05:36:31] Kitchen orders API called
+[2025-05-21 05:36:31] Found 3 orders
+[2025-05-21 05:36:31] Processing order #46
+[2025-05-21 05:36:31] Found 1 items for order #46
+[2025-05-21 05:36:31] Processing order #47
+[2025-05-21 05:36:31] Found 1 items for order #47
+[2025-05-21 05:36:31] Processing order #48
+[2025-05-21 05:36:31] Found 1 items for order #48
+[2025-05-21 05:36:35] Kitchen orders API called
+[2025-05-21 05:36:35] Found 2 orders
+[2025-05-21 05:36:35] Processing order #46
+[2025-05-21 05:36:35] Found 1 items for order #46
+[2025-05-21 05:36:35] Processing order #47
+[2025-05-21 05:36:35] Found 1 items for order #47
+[2025-05-21 05:36:36] Kitchen orders API called
+[2025-05-21 05:36:36] Found 2 orders
+[2025-05-21 05:36:36] Processing order #46
+[2025-05-21 05:36:36] Found 1 items for order #46
+[2025-05-21 05:36:36] Processing order #47
+[2025-05-21 05:36:36] Found 1 items for order #47
+[2025-05-21 05:36:40] Kitchen orders API called
+[2025-05-21 05:36:40] Found 1 orders
+[2025-05-21 05:36:40] Processing order #46
+[2025-05-21 05:36:40] Found 1 items for order #46
+[2025-05-21 05:36:41] Kitchen orders API called
+[2025-05-21 05:36:41] Found 1 orders
+[2025-05-21 05:36:41] Processing order #46
+[2025-05-21 05:36:41] Found 1 items for order #46
+[2025-05-21 05:36:45] Kitchen orders API called
+[2025-05-21 05:36:45] Found 1 orders
+[2025-05-21 05:36:45] Processing order #46
+[2025-05-21 05:36:45] Found 1 items for order #46
+[2025-05-21 05:36:46] Kitchen orders API called
+[2025-05-21 05:36:46] Found 1 orders
+[2025-05-21 05:36:46] Processing order #46
+[2025-05-21 05:36:46] Found 1 items for order #46
+[2025-05-21 05:36:50] Kitchen orders API called
+[2025-05-21 05:36:50] Found 1 orders
+[2025-05-21 05:36:50] Processing order #46
+[2025-05-21 05:36:50] Found 1 items for order #46
+[2025-05-21 05:36:51] Kitchen orders API called
+[2025-05-21 05:36:51] Found 1 orders
+[2025-05-21 05:36:51] Processing order #46
+[2025-05-21 05:36:51] Found 1 items for order #46
+[2025-05-21 05:36:55] Kitchen orders API called
+[2025-05-21 05:36:55] Found 1 orders
+[2025-05-21 05:36:55] Processing order #46
+[2025-05-21 05:36:55] Found 1 items for order #46
+[2025-05-21 05:36:56] Kitchen orders API called
+[2025-05-21 05:36:56] Found 1 orders
+[2025-05-21 05:36:56] Processing order #46
+[2025-05-21 05:36:56] Found 1 items for order #46
+[2025-05-21 05:37:00] Kitchen orders API called
+[2025-05-21 05:37:00] Found 1 orders
+[2025-05-21 05:37:00] Processing order #46
+[2025-05-21 05:37:00] Found 1 items for order #46
+[2025-05-21 05:37:01] Kitchen orders API called
+[2025-05-21 05:37:01] Found 1 orders
+[2025-05-21 05:37:01] Processing order #46
+[2025-05-21 05:37:01] Found 1 items for order #46
+[2025-05-21 05:37:05] Kitchen orders API called
+[2025-05-21 05:37:05] Found 1 orders
+[2025-05-21 05:37:05] Processing order #46
+[2025-05-21 05:37:05] Found 1 items for order #46
+[2025-05-21 05:37:06] Kitchen orders API called
+[2025-05-21 05:37:06] Found 1 orders
+[2025-05-21 05:37:06] Processing order #46
+[2025-05-21 05:37:06] Found 1 items for order #46
+[2025-05-21 05:37:10] Kitchen orders API called
+[2025-05-21 05:37:10] Found 1 orders
+[2025-05-21 05:37:10] Processing order #46
+[2025-05-21 05:37:10] Found 1 items for order #46
+[2025-05-21 05:37:11] Kitchen orders API called
+[2025-05-21 05:37:11] Found 1 orders
+[2025-05-21 05:37:11] Processing order #46
+[2025-05-21 05:37:11] Found 1 items for order #46
+[2025-05-21 05:37:15] Kitchen orders API called
+[2025-05-21 05:37:15] Found 1 orders
+[2025-05-21 05:37:15] Processing order #46
+[2025-05-21 05:37:15] Found 1 items for order #46
+[2025-05-21 05:37:16] Kitchen orders API called
+[2025-05-21 05:37:16] Found 1 orders
+[2025-05-21 05:37:16] Processing order #46
+[2025-05-21 05:37:16] Found 1 items for order #46
+[2025-05-21 05:37:20] Kitchen orders API called
+[2025-05-21 05:37:20] Found 1 orders
+[2025-05-21 05:37:20] Processing order #46
+[2025-05-21 05:37:20] Found 1 items for order #46
+[2025-05-21 05:37:21] Kitchen orders API called
+[2025-05-21 05:37:21] Found 1 orders
+[2025-05-21 05:37:21] Processing order #46
+[2025-05-21 05:37:21] Found 1 items for order #46
+[2025-05-21 05:37:25] Kitchen orders API called
+[2025-05-21 05:37:25] Found 1 orders
+[2025-05-21 05:37:25] Processing order #46
+[2025-05-21 05:37:25] Found 1 items for order #46
+[2025-05-21 05:37:26] Kitchen orders API called
+[2025-05-21 05:37:26] Found 1 orders
+[2025-05-21 05:37:26] Processing order #46
+[2025-05-21 05:37:26] Found 1 items for order #46
+[2025-05-21 05:37:30] Kitchen orders API called
+[2025-05-21 05:37:30] Found 1 orders
+[2025-05-21 05:37:30] Processing order #46
+[2025-05-21 05:37:30] Found 1 items for order #46
+[2025-05-21 05:37:31] Kitchen orders API called
+[2025-05-21 05:37:31] Found 1 orders
+[2025-05-21 05:37:31] Processing order #46
+[2025-05-21 05:37:31] Found 1 items for order #46
+[2025-05-21 05:37:35] Kitchen orders API called
+[2025-05-21 05:37:35] Found 1 orders
+[2025-05-21 05:37:35] Processing order #46
+[2025-05-21 05:37:35] Found 1 items for order #46
+[2025-05-21 05:37:36] Kitchen orders API called
+[2025-05-21 05:37:36] Found 1 orders
+[2025-05-21 05:37:36] Processing order #46
+[2025-05-21 05:37:36] Found 1 items for order #46
+[2025-05-21 05:37:40] Kitchen orders API called
+[2025-05-21 05:37:40] Found 1 orders
+[2025-05-21 05:37:40] Processing order #46
+[2025-05-21 05:37:40] Found 1 items for order #46
+[2025-05-21 05:37:41] Kitchen orders API called
+[2025-05-21 05:37:41] Found 1 orders
+[2025-05-21 05:37:41] Processing order #46
+[2025-05-21 05:37:41] Found 1 items for order #46
+[2025-05-21 05:37:45] Kitchen orders API called
+[2025-05-21 05:37:45] Found 1 orders
+[2025-05-21 05:37:45] Processing order #46
+[2025-05-21 05:37:45] Found 1 items for order #46
+[2025-05-21 05:37:46] Kitchen orders API called
+[2025-05-21 05:37:46] Found 1 orders
+[2025-05-21 05:37:46] Processing order #46
+[2025-05-21 05:37:46] Found 1 items for order #46
+[2025-05-21 05:37:50] Kitchen orders API called
+[2025-05-21 05:37:50] Found 1 orders
+[2025-05-21 05:37:50] Processing order #46
+[2025-05-21 05:37:50] Found 1 items for order #46
+[2025-05-21 05:37:51] Kitchen orders API called
+[2025-05-21 05:37:51] Found 1 orders
+[2025-05-21 05:37:51] Processing order #46
+[2025-05-21 05:37:51] Found 1 items for order #46
+[2025-05-21 05:37:55] Kitchen orders API called
+[2025-05-21 05:37:55] Found 1 orders
+[2025-05-21 05:37:55] Processing order #46
+[2025-05-21 05:37:55] Found 1 items for order #46
+[2025-05-21 05:37:56] Kitchen orders API called
+[2025-05-21 05:37:56] Found 1 orders
+[2025-05-21 05:37:56] Processing order #46
+[2025-05-21 05:37:56] Found 1 items for order #46
+[2025-05-21 05:38:00] Kitchen orders API called
+[2025-05-21 05:38:00] Found 1 orders
+[2025-05-21 05:38:00] Processing order #46
+[2025-05-21 05:38:00] Found 1 items for order #46
+[2025-05-21 05:38:01] Kitchen orders API called
+[2025-05-21 05:38:01] Found 1 orders
+[2025-05-21 05:38:01] Processing order #46
+[2025-05-21 05:38:01] Found 1 items for order #46
+[2025-05-21 05:38:05] Kitchen orders API called
+[2025-05-21 05:38:05] Found 1 orders
+[2025-05-21 05:38:05] Processing order #46
+[2025-05-21 05:38:05] Found 1 items for order #46
+[2025-05-21 05:38:06] Kitchen orders API called
+[2025-05-21 05:38:06] Found 1 orders
+[2025-05-21 05:38:06] Processing order #46
+[2025-05-21 05:38:06] Found 1 items for order #46
+[2025-05-21 05:38:10] Kitchen orders API called
+[2025-05-21 05:38:10] Found 1 orders
+[2025-05-21 05:38:10] Processing order #46
+[2025-05-21 05:38:10] Found 1 items for order #46
+[2025-05-21 05:38:11] Kitchen orders API called
+[2025-05-21 05:38:11] Found 1 orders
+[2025-05-21 05:38:11] Processing order #46
+[2025-05-21 05:38:11] Found 1 items for order #46
+[2025-05-21 05:38:15] Kitchen orders API called
+[2025-05-21 05:38:15] Found 1 orders
+[2025-05-21 05:38:15] Processing order #46
+[2025-05-21 05:38:15] Found 1 items for order #46
+[2025-05-21 05:38:16] Kitchen orders API called
+[2025-05-21 05:38:16] Found 1 orders
+[2025-05-21 05:38:16] Processing order #46
+[2025-05-21 05:38:16] Found 1 items for order #46
+[2025-05-21 05:38:20] Kitchen orders API called
+[2025-05-21 05:38:20] Found 1 orders
+[2025-05-21 05:38:20] Processing order #46
+[2025-05-21 05:38:20] Found 1 items for order #46
+[2025-05-21 05:38:21] Kitchen orders API called
+[2025-05-21 05:38:21] Found 1 orders
+[2025-05-21 05:38:21] Processing order #46
+[2025-05-21 05:38:21] Found 1 items for order #46
+[2025-05-21 05:38:25] Kitchen orders API called
+[2025-05-21 05:38:25] Found 1 orders
+[2025-05-21 05:38:25] Processing order #46
+[2025-05-21 05:38:25] Found 1 items for order #46
+[2025-05-21 05:38:26] Kitchen orders API called
+[2025-05-21 05:38:26] Found 1 orders
+[2025-05-21 05:38:26] Processing order #46
+[2025-05-21 05:38:26] Found 1 items for order #46
+[2025-05-21 05:38:30] Kitchen orders API called
+[2025-05-21 05:38:30] Found 1 orders
+[2025-05-21 05:38:30] Processing order #46
+[2025-05-21 05:38:30] Found 1 items for order #46
+[2025-05-21 05:38:31] Kitchen orders API called
+[2025-05-21 05:38:31] Found 1 orders
+[2025-05-21 05:38:31] Processing order #46
+[2025-05-21 05:38:31] Found 1 items for order #46
+[2025-05-21 05:38:35] Kitchen orders API called
+[2025-05-21 05:38:35] Found 1 orders
+[2025-05-21 05:38:35] Processing order #46
+[2025-05-21 05:38:35] Found 1 items for order #46
+[2025-05-21 05:38:36] Kitchen orders API called
+[2025-05-21 05:38:36] Found 1 orders
+[2025-05-21 05:38:36] Processing order #46
+[2025-05-21 05:38:36] Found 1 items for order #46
+[2025-05-21 05:38:40] Kitchen orders API called
+[2025-05-21 05:38:40] Found 1 orders
+[2025-05-21 05:38:40] Processing order #46
+[2025-05-21 05:38:40] Found 1 items for order #46
+[2025-05-21 05:38:41] Kitchen orders API called
+[2025-05-21 05:38:41] Found 1 orders
+[2025-05-21 05:38:41] Processing order #46
+[2025-05-21 05:38:41] Found 1 items for order #46
+[2025-05-21 05:38:45] Kitchen orders API called
+[2025-05-21 05:38:45] Found 1 orders
+[2025-05-21 05:38:45] Processing order #46
+[2025-05-21 05:38:45] Found 1 items for order #46
+[2025-05-21 05:38:46] Kitchen orders API called
+[2025-05-21 05:38:46] Found 1 orders
+[2025-05-21 05:38:46] Processing order #46
+[2025-05-21 05:38:46] Found 1 items for order #46
+[2025-05-21 05:38:50] Kitchen orders API called
+[2025-05-21 05:38:50] Found 1 orders
+[2025-05-21 05:38:50] Processing order #46
+[2025-05-21 05:38:50] Found 1 items for order #46
+[2025-05-21 05:38:51] Kitchen orders API called
+[2025-05-21 05:38:51] Found 1 orders
+[2025-05-21 05:38:51] Processing order #46
+[2025-05-21 05:38:51] Found 1 items for order #46
+[2025-05-21 05:38:55] Kitchen orders API called
+[2025-05-21 05:38:55] Found 1 orders
+[2025-05-21 05:38:55] Processing order #46
+[2025-05-21 05:38:55] Found 1 items for order #46
+[2025-05-21 05:38:56] Kitchen orders API called
+[2025-05-21 05:38:56] Found 1 orders
+[2025-05-21 05:38:56] Processing order #46
+[2025-05-21 05:38:56] Found 1 items for order #46
+[2025-05-21 05:39:00] Kitchen orders API called
+[2025-05-21 05:39:00] Found 1 orders
+[2025-05-21 05:39:00] Processing order #46
+[2025-05-21 05:39:00] Found 1 items for order #46
+[2025-05-21 05:39:01] Kitchen orders API called
+[2025-05-21 05:39:01] Found 1 orders
+[2025-05-21 05:39:01] Processing order #46
+[2025-05-21 05:39:01] Found 1 items for order #46
+[2025-05-21 05:39:05] Kitchen orders API called
+[2025-05-21 05:39:05] Found 1 orders
+[2025-05-21 05:39:05] Processing order #46
+[2025-05-21 05:39:05] Found 1 items for order #46
+[2025-05-21 05:39:06] Kitchen orders API called
+[2025-05-21 05:39:06] Found 1 orders
+[2025-05-21 05:39:06] Processing order #46
+[2025-05-21 05:39:06] Found 1 items for order #46
+[2025-05-21 05:39:10] Kitchen orders API called
+[2025-05-21 05:39:10] Found 1 orders
+[2025-05-21 05:39:10] Processing order #46
+[2025-05-21 05:39:10] Found 1 items for order #46
+[2025-05-21 05:39:11] Kitchen orders API called
+[2025-05-21 05:39:11] Found 1 orders
+[2025-05-21 05:39:11] Processing order #46
+[2025-05-21 05:39:11] Found 1 items for order #46
+[2025-05-21 05:39:15] Kitchen orders API called
+[2025-05-21 05:39:15] Found 1 orders
+[2025-05-21 05:39:15] Processing order #46
+[2025-05-21 05:39:15] Found 1 items for order #46
+[2025-05-21 05:39:16] Kitchen orders API called
+[2025-05-21 05:39:16] Found 1 orders
+[2025-05-21 05:39:16] Processing order #46
+[2025-05-21 05:39:16] Found 1 items for order #46
+[2025-05-21 05:39:20] Kitchen orders API called
+[2025-05-21 05:39:20] Found 1 orders
+[2025-05-21 05:39:20] Processing order #46
+[2025-05-21 05:39:20] Found 1 items for order #46
+[2025-05-21 05:39:21] Kitchen orders API called
+[2025-05-21 05:39:21] Found 1 orders
+[2025-05-21 05:39:21] Processing order #46
+[2025-05-21 05:39:21] Found 1 items for order #46
+[2025-05-21 05:39:25] Kitchen orders API called
+[2025-05-21 05:39:25] Found 1 orders
+[2025-05-21 05:39:25] Processing order #46
+[2025-05-21 05:39:25] Found 1 items for order #46
+[2025-05-21 05:39:26] Kitchen orders API called
+[2025-05-21 05:39:26] Found 1 orders
+[2025-05-21 05:39:26] Processing order #46
+[2025-05-21 05:39:26] Found 1 items for order #46
+[2025-05-21 05:39:30] Kitchen orders API called
+[2025-05-21 05:39:30] Found 1 orders
+[2025-05-21 05:39:30] Processing order #46
+[2025-05-21 05:39:30] Found 1 items for order #46
+[2025-05-21 05:39:31] Kitchen orders API called
+[2025-05-21 05:39:31] Found 1 orders
+[2025-05-21 05:39:31] Processing order #46
+[2025-05-21 05:39:31] Found 1 items for order #46
+[2025-05-21 05:39:35] Kitchen orders API called
+[2025-05-21 05:39:35] Found 1 orders
+[2025-05-21 05:39:35] Processing order #46
+[2025-05-21 05:39:35] Found 1 items for order #46
+[2025-05-21 05:39:36] Kitchen orders API called
+[2025-05-21 05:39:36] Found 1 orders
+[2025-05-21 05:39:36] Processing order #46
+[2025-05-21 05:39:36] Found 1 items for order #46
+[2025-05-21 05:39:40] Kitchen orders API called
+[2025-05-21 05:39:40] Found 1 orders
+[2025-05-21 05:39:40] Processing order #46
+[2025-05-21 05:39:40] Found 1 items for order #46
+[2025-05-21 05:39:41] Kitchen orders API called
+[2025-05-21 05:39:41] Found 1 orders
+[2025-05-21 05:39:41] Processing order #46
+[2025-05-21 05:39:41] Found 1 items for order #46
+[2025-05-21 05:39:45] Kitchen orders API called
+[2025-05-21 05:39:45] Found 1 orders
+[2025-05-21 05:39:45] Processing order #46
+[2025-05-21 05:39:45] Found 1 items for order #46
+[2025-05-21 05:39:46] Kitchen orders API called
+[2025-05-21 05:39:46] Found 1 orders
+[2025-05-21 05:39:46] Processing order #46
+[2025-05-21 05:39:46] Found 1 items for order #46
+[2025-05-21 05:39:50] Kitchen orders API called
+[2025-05-21 05:39:50] Found 1 orders
+[2025-05-21 05:39:50] Processing order #46
+[2025-05-21 05:39:50] Found 1 items for order #46
+[2025-05-21 05:39:51] Kitchen orders API called
+[2025-05-21 05:39:51] Found 1 orders
+[2025-05-21 05:39:51] Processing order #46
+[2025-05-21 05:39:51] Found 1 items for order #46
+[2025-05-21 05:39:55] Kitchen orders API called
+[2025-05-21 05:39:55] Found 1 orders
+[2025-05-21 05:39:55] Processing order #46
+[2025-05-21 05:39:55] Found 1 items for order #46
+[2025-05-21 05:39:56] Kitchen orders API called
+[2025-05-21 05:39:56] Found 1 orders
+[2025-05-21 05:39:56] Processing order #46
+[2025-05-21 05:39:56] Found 1 items for order #46
+[2025-05-21 05:40:00] Kitchen orders API called
+[2025-05-21 05:40:00] Found 1 orders
+[2025-05-21 05:40:00] Processing order #46
+[2025-05-21 05:40:00] Found 1 items for order #46
+[2025-05-21 05:40:01] Kitchen orders API called
+[2025-05-21 05:40:01] Found 1 orders
+[2025-05-21 05:40:01] Processing order #46
+[2025-05-21 05:40:01] Found 1 items for order #46
+[2025-05-21 05:40:05] Kitchen orders API called
+[2025-05-21 05:40:05] Found 1 orders
+[2025-05-21 05:40:05] Processing order #46
+[2025-05-21 05:40:05] Found 1 items for order #46
+[2025-05-21 05:40:06] Kitchen orders API called
+[2025-05-21 05:40:06] Found 1 orders
+[2025-05-21 05:40:06] Processing order #46
+[2025-05-21 05:40:06] Found 1 items for order #46
+[2025-05-21 05:40:10] Kitchen orders API called
+[2025-05-21 05:40:10] Found 1 orders
+[2025-05-21 05:40:10] Processing order #46
+[2025-05-21 05:40:10] Found 1 items for order #46
+[2025-05-21 05:40:11] Kitchen orders API called
+[2025-05-21 05:40:11] Found 1 orders
+[2025-05-21 05:40:11] Processing order #46
+[2025-05-21 05:40:11] Found 1 items for order #46
+[2025-05-21 05:40:15] Kitchen orders API called
+[2025-05-21 05:40:15] Found 1 orders
+[2025-05-21 05:40:15] Processing order #46
+[2025-05-21 05:40:15] Found 1 items for order #46
+[2025-05-21 05:40:16] Kitchen orders API called
+[2025-05-21 05:40:16] Found 1 orders
+[2025-05-21 05:40:16] Processing order #46
+[2025-05-21 05:40:16] Found 1 items for order #46
+[2025-05-21 05:40:20] Kitchen orders API called
+[2025-05-21 05:40:20] Found 1 orders
+[2025-05-21 05:40:20] Processing order #46
+[2025-05-21 05:40:20] Found 1 items for order #46
+[2025-05-21 05:40:21] Kitchen orders API called
+[2025-05-21 05:40:21] Found 1 orders
+[2025-05-21 05:40:21] Processing order #46
+[2025-05-21 05:40:21] Found 1 items for order #46
+[2025-05-21 05:40:25] Kitchen orders API called
+[2025-05-21 05:40:26] Found 1 orders
+[2025-05-21 05:40:26] Processing order #46
+[2025-05-21 05:40:26] Found 1 items for order #46
+[2025-05-21 05:40:26] Kitchen orders API called
+[2025-05-21 05:40:26] Found 1 orders
+[2025-05-21 05:40:26] Processing order #46
+[2025-05-21 05:40:26] Found 1 items for order #46
+[2025-05-21 05:40:30] Kitchen orders API called
+[2025-05-21 05:40:30] Found 1 orders
+[2025-05-21 05:40:30] Processing order #46
+[2025-05-21 05:40:30] Found 1 items for order #46
+[2025-05-21 05:40:31] Kitchen orders API called
+[2025-05-21 05:40:31] Found 1 orders
+[2025-05-21 05:40:31] Processing order #46
+[2025-05-21 05:40:31] Found 1 items for order #46
+[2025-05-21 05:40:35] Kitchen orders API called
+[2025-05-21 05:40:35] Found 1 orders
+[2025-05-21 05:40:35] Processing order #46
+[2025-05-21 05:40:35] Found 1 items for order #46
+[2025-05-21 05:40:36] Kitchen orders API called
+[2025-05-21 05:40:36] Found 1 orders
+[2025-05-21 05:40:36] Processing order #46
+[2025-05-21 05:40:36] Found 1 items for order #46
+[2025-05-21 05:40:40] Kitchen orders API called
+[2025-05-21 05:40:40] Found 1 orders
+[2025-05-21 05:40:40] Processing order #46
+[2025-05-21 05:40:40] Found 1 items for order #46
+[2025-05-21 05:40:41] Kitchen orders API called
+[2025-05-21 05:40:41] Found 1 orders
+[2025-05-21 05:40:41] Processing order #46
+[2025-05-21 05:40:41] Found 1 items for order #46
+[2025-05-21 05:40:45] Kitchen orders API called
+[2025-05-21 05:40:45] Found 1 orders
+[2025-05-21 05:40:45] Processing order #46
+[2025-05-21 05:40:45] Found 1 items for order #46
+[2025-05-21 05:40:46] Kitchen orders API called
+[2025-05-21 05:40:46] Found 1 orders
+[2025-05-21 05:40:46] Processing order #46
+[2025-05-21 05:40:46] Found 1 items for order #46
+[2025-05-21 05:40:50] Kitchen orders API called
+[2025-05-21 05:40:50] Found 1 orders
+[2025-05-21 05:40:50] Processing order #46
+[2025-05-21 05:40:50] Found 1 items for order #46
+[2025-05-21 05:40:51] Kitchen orders API called
+[2025-05-21 05:40:51] Found 1 orders
+[2025-05-21 05:40:51] Processing order #46
+[2025-05-21 05:40:51] Found 1 items for order #46
+[2025-05-21 05:40:55] Kitchen orders API called
+[2025-05-21 05:40:55] Found 1 orders
+[2025-05-21 05:40:55] Processing order #46
+[2025-05-21 05:40:55] Found 1 items for order #46
+[2025-05-21 05:40:56] Kitchen orders API called
+[2025-05-21 05:40:56] Found 1 orders
+[2025-05-21 05:40:56] Processing order #46
+[2025-05-21 05:40:56] Found 1 items for order #46
+[2025-05-21 05:41:00] Kitchen orders API called
+[2025-05-21 05:41:00] Found 1 orders
+[2025-05-21 05:41:00] Processing order #46
+[2025-05-21 05:41:00] Found 1 items for order #46
+[2025-05-21 05:41:01] Kitchen orders API called
+[2025-05-21 05:41:01] Found 1 orders
+[2025-05-21 05:41:01] Processing order #46
+[2025-05-21 05:41:01] Found 1 items for order #46
+[2025-05-21 05:41:05] Kitchen orders API called
+[2025-05-21 05:41:05] Found 1 orders
+[2025-05-21 05:41:05] Processing order #46
+[2025-05-21 05:41:05] Found 1 items for order #46
+[2025-05-21 05:41:06] Kitchen orders API called
+[2025-05-21 05:41:06] Found 1 orders
+[2025-05-21 05:41:06] Processing order #46
+[2025-05-21 05:41:06] Found 1 items for order #46
+[2025-05-21 05:41:10] Kitchen orders API called
+[2025-05-21 05:41:10] Found 1 orders
+[2025-05-21 05:41:10] Processing order #46
+[2025-05-21 05:41:10] Found 1 items for order #46
+[2025-05-21 05:41:11] Kitchen orders API called
+[2025-05-21 05:41:11] Found 1 orders
+[2025-05-21 05:41:11] Processing order #46
+[2025-05-21 05:41:11] Found 1 items for order #46
+[2025-05-21 05:41:15] Kitchen orders API called
+[2025-05-21 05:41:15] Found 1 orders
+[2025-05-21 05:41:15] Processing order #46
+[2025-05-21 05:41:15] Found 1 items for order #46
+[2025-05-21 05:41:16] Kitchen orders API called
+[2025-05-21 05:41:16] Found 1 orders
+[2025-05-21 05:41:16] Processing order #46
+[2025-05-21 05:41:16] Found 1 items for order #46
+[2025-05-21 05:41:20] Kitchen orders API called
+[2025-05-21 05:41:20] Found 1 orders
+[2025-05-21 05:41:20] Processing order #46
+[2025-05-21 05:41:20] Found 1 items for order #46
+[2025-05-21 05:41:21] Kitchen orders API called
+[2025-05-21 05:41:21] Found 1 orders
+[2025-05-21 05:41:21] Processing order #46
+[2025-05-21 05:41:21] Found 1 items for order #46
+[2025-05-21 05:41:25] Kitchen orders API called
+[2025-05-21 05:41:25] Found 1 orders
+[2025-05-21 05:41:25] Processing order #46
+[2025-05-21 05:41:25] Found 1 items for order #46
+[2025-05-21 05:41:26] Kitchen orders API called
+[2025-05-21 05:41:26] Found 1 orders
+[2025-05-21 05:41:26] Processing order #46
+[2025-05-21 05:41:26] Found 1 items for order #46
+[2025-05-21 05:41:30] Kitchen orders API called
+[2025-05-21 05:41:30] Found 1 orders
+[2025-05-21 05:41:30] Processing order #46
+[2025-05-21 05:41:30] Found 1 items for order #46
+[2025-05-21 05:41:31] Kitchen orders API called
+[2025-05-21 05:41:31] Found 1 orders
+[2025-05-21 05:41:31] Processing order #46
+[2025-05-21 05:41:31] Found 1 items for order #46
+[2025-05-21 05:41:35] Kitchen orders API called
+[2025-05-21 05:41:35] Found 1 orders
+[2025-05-21 05:41:35] Processing order #46
+[2025-05-21 05:41:35] Found 1 items for order #46
+[2025-05-21 05:41:36] Kitchen orders API called
+[2025-05-21 05:41:36] Found 1 orders
+[2025-05-21 05:41:36] Processing order #46
+[2025-05-21 05:41:36] Found 1 items for order #46
+[2025-05-21 05:41:40] Kitchen orders API called
+[2025-05-21 05:41:40] Found 1 orders
+[2025-05-21 05:41:40] Processing order #46
+[2025-05-21 05:41:40] Found 1 items for order #46
+[2025-05-21 05:41:41] Kitchen orders API called
+[2025-05-21 05:41:41] Found 1 orders
+[2025-05-21 05:41:41] Processing order #46
+[2025-05-21 05:41:41] Found 1 items for order #46
+[2025-05-21 05:41:45] Kitchen orders API called
+[2025-05-21 05:41:45] Found 1 orders
+[2025-05-21 05:41:45] Processing order #46
+[2025-05-21 05:41:45] Found 1 items for order #46
+[2025-05-21 05:41:46] Kitchen orders API called
+[2025-05-21 05:41:46] Found 1 orders
+[2025-05-21 05:41:46] Processing order #46
+[2025-05-21 05:41:46] Found 1 items for order #46
+[2025-05-21 05:41:50] Kitchen orders API called
+[2025-05-21 05:41:50] Found 1 orders
+[2025-05-21 05:41:50] Processing order #46
+[2025-05-21 05:41:50] Found 1 items for order #46
+[2025-05-21 05:41:51] Kitchen orders API called
+[2025-05-21 05:41:51] Found 1 orders
+[2025-05-21 05:41:51] Processing order #46
+[2025-05-21 05:41:51] Found 1 items for order #46
+[2025-05-21 05:41:55] Kitchen orders API called
+[2025-05-21 05:41:55] Found 1 orders
+[2025-05-21 05:41:55] Processing order #46
+[2025-05-21 05:41:55] Found 1 items for order #46
+[2025-05-21 05:41:56] Kitchen orders API called
+[2025-05-21 05:41:56] Found 1 orders
+[2025-05-21 05:41:56] Processing order #46
+[2025-05-21 05:41:56] Found 1 items for order #46
+[2025-05-21 05:42:00] Kitchen orders API called
+[2025-05-21 05:42:00] Found 1 orders
+[2025-05-21 05:42:00] Processing order #46
+[2025-05-21 05:42:00] Found 1 items for order #46
+[2025-05-21 05:42:01] Kitchen orders API called
+[2025-05-21 05:42:01] Found 1 orders
+[2025-05-21 05:42:01] Processing order #46
+[2025-05-21 05:42:01] Found 1 items for order #46
+[2025-05-21 05:42:05] Kitchen orders API called
+[2025-05-21 05:42:05] Found 1 orders
+[2025-05-21 05:42:05] Processing order #46
+[2025-05-21 05:42:05] Found 1 items for order #46
+[2025-05-21 05:42:06] Kitchen orders API called
+[2025-05-21 05:42:06] Found 1 orders
+[2025-05-21 05:42:06] Processing order #46
+[2025-05-21 05:42:06] Found 1 items for order #46
+[2025-05-21 05:42:10] Kitchen orders API called
+[2025-05-21 05:42:10] Found 1 orders
+[2025-05-21 05:42:10] Processing order #46
+[2025-05-21 05:42:10] Found 1 items for order #46
+[2025-05-21 05:42:11] Kitchen orders API called
+[2025-05-21 05:42:11] Found 1 orders
+[2025-05-21 05:42:11] Processing order #46
+[2025-05-21 05:42:11] Found 1 items for order #46
+[2025-05-21 05:42:15] Kitchen orders API called
+[2025-05-21 05:42:15] Found 1 orders
+[2025-05-21 05:42:15] Processing order #46
+[2025-05-21 05:42:15] Found 1 items for order #46
+[2025-05-21 05:42:16] Kitchen orders API called
+[2025-05-21 05:42:16] Found 1 orders
+[2025-05-21 05:42:16] Processing order #46
+[2025-05-21 05:42:16] Found 1 items for order #46
+[2025-05-21 05:42:20] Kitchen orders API called
+[2025-05-21 05:42:20] Found 1 orders
+[2025-05-21 05:42:20] Processing order #46
+[2025-05-21 05:42:20] Found 1 items for order #46
+[2025-05-21 05:42:21] Kitchen orders API called
+[2025-05-21 05:42:21] Found 1 orders
+[2025-05-21 05:42:21] Processing order #46
+[2025-05-21 05:42:21] Found 1 items for order #46
+[2025-05-21 05:42:25] Kitchen orders API called
+[2025-05-21 05:42:25] Found 1 orders
+[2025-05-21 05:42:25] Processing order #46
+[2025-05-21 05:42:25] Found 1 items for order #46
+[2025-05-21 05:42:26] Kitchen orders API called
+[2025-05-21 05:42:26] Found 1 orders
+[2025-05-21 05:42:26] Processing order #46
+[2025-05-21 05:42:26] Found 1 items for order #46
+[2025-05-21 05:42:30] Kitchen orders API called
+[2025-05-21 05:42:30] Found 1 orders
+[2025-05-21 05:42:30] Processing order #46
+[2025-05-21 05:42:30] Found 1 items for order #46
+[2025-05-21 05:42:31] Kitchen orders API called
+[2025-05-21 05:42:31] Found 1 orders
+[2025-05-21 05:42:31] Processing order #46
+[2025-05-21 05:42:31] Found 1 items for order #46
+[2025-05-21 05:42:35] Kitchen orders API called
+[2025-05-21 05:42:35] Found 1 orders
+[2025-05-21 05:42:35] Processing order #46
+[2025-05-21 05:42:35] Found 1 items for order #46
+[2025-05-21 05:42:36] Kitchen orders API called
+[2025-05-21 05:42:36] Found 1 orders
+[2025-05-21 05:42:36] Processing order #46
+[2025-05-21 05:42:36] Found 1 items for order #46
+[2025-05-21 05:42:40] Kitchen orders API called
+[2025-05-21 05:42:40] Found 1 orders
+[2025-05-21 05:42:40] Processing order #46
+[2025-05-21 05:42:40] Found 1 items for order #46
+[2025-05-21 05:42:41] Kitchen orders API called
+[2025-05-21 05:42:41] Found 1 orders
+[2025-05-21 05:42:41] Processing order #46
+[2025-05-21 05:42:41] Found 1 items for order #46
+[2025-05-21 05:42:45] Kitchen orders API called
+[2025-05-21 05:42:45] Found 1 orders
+[2025-05-21 05:42:45] Processing order #46
+[2025-05-21 05:42:45] Found 1 items for order #46
+[2025-05-21 05:42:46] Kitchen orders API called
+[2025-05-21 05:42:46] Found 1 orders
+[2025-05-21 05:42:46] Processing order #46
+[2025-05-21 05:42:46] Found 1 items for order #46
+[2025-05-21 05:42:50] Kitchen orders API called
+[2025-05-21 05:42:50] Found 1 orders
+[2025-05-21 05:42:50] Processing order #46
+[2025-05-21 05:42:50] Found 1 items for order #46
+[2025-05-21 05:42:51] Kitchen orders API called
+[2025-05-21 05:42:51] Found 1 orders
+[2025-05-21 05:42:51] Processing order #46
+[2025-05-21 05:42:51] Found 1 items for order #46
+[2025-05-21 05:42:55] Kitchen orders API called
+[2025-05-21 05:42:55] Found 1 orders
+[2025-05-21 05:42:55] Processing order #46
+[2025-05-21 05:42:55] Found 1 items for order #46
+[2025-05-21 05:42:56] Kitchen orders API called
+[2025-05-21 05:42:56] Found 1 orders
+[2025-05-21 05:42:56] Processing order #46
+[2025-05-21 05:42:56] Found 1 items for order #46
+[2025-05-21 05:43:00] Kitchen orders API called
+[2025-05-21 05:43:00] Found 1 orders
+[2025-05-21 05:43:00] Processing order #46
+[2025-05-21 05:43:00] Found 1 items for order #46
+[2025-05-21 05:43:01] Kitchen orders API called
+[2025-05-21 05:43:01] Found 1 orders
+[2025-05-21 05:43:01] Processing order #46
+[2025-05-21 05:43:01] Found 1 items for order #46
+[2025-05-21 05:43:05] Kitchen orders API called
+[2025-05-21 05:43:05] Found 1 orders
+[2025-05-21 05:43:05] Processing order #46
+[2025-05-21 05:43:05] Found 1 items for order #46
+[2025-05-21 05:43:06] Kitchen orders API called
+[2025-05-21 05:43:06] Found 1 orders
+[2025-05-21 05:43:06] Processing order #46
+[2025-05-21 05:43:06] Found 1 items for order #46
+[2025-05-21 05:43:10] Kitchen orders API called
+[2025-05-21 05:43:10] Found 1 orders
+[2025-05-21 05:43:10] Processing order #46
+[2025-05-21 05:43:10] Found 1 items for order #46
+[2025-05-21 05:43:11] Kitchen orders API called
+[2025-05-21 05:43:11] Found 1 orders
+[2025-05-21 05:43:11] Processing order #46
+[2025-05-21 05:43:11] Found 1 items for order #46
+[2025-05-21 05:43:15] Kitchen orders API called
+[2025-05-21 05:43:15] Found 1 orders
+[2025-05-21 05:43:15] Processing order #46
+[2025-05-21 05:43:15] Found 1 items for order #46
+[2025-05-21 05:43:16] Kitchen orders API called
+[2025-05-21 05:43:16] Found 1 orders
+[2025-05-21 05:43:16] Processing order #46
+[2025-05-21 05:43:16] Found 1 items for order #46
+[2025-05-21 05:43:20] Kitchen orders API called
+[2025-05-21 05:43:20] Found 1 orders
+[2025-05-21 05:43:20] Processing order #46
+[2025-05-21 05:43:20] Found 1 items for order #46
+[2025-05-21 05:43:21] Kitchen orders API called
+[2025-05-21 05:43:21] Found 1 orders
+[2025-05-21 05:43:21] Processing order #46
+[2025-05-21 05:43:21] Found 1 items for order #46
+[2025-05-21 05:43:25] Kitchen orders API called
+[2025-05-21 05:43:25] Found 1 orders
+[2025-05-21 05:43:25] Processing order #46
+[2025-05-21 05:43:25] Found 1 items for order #46
+[2025-05-21 05:43:26] Kitchen orders API called
+[2025-05-21 05:43:26] Found 1 orders
+[2025-05-21 05:43:26] Processing order #46
+[2025-05-21 05:43:26] Found 1 items for order #46
+[2025-05-21 05:43:30] Kitchen orders API called
+[2025-05-21 05:43:30] Found 1 orders
+[2025-05-21 05:43:30] Processing order #46
+[2025-05-21 05:43:30] Found 1 items for order #46
+[2025-05-21 05:43:31] Kitchen orders API called
+[2025-05-21 05:43:31] Found 1 orders
+[2025-05-21 05:43:31] Processing order #46
+[2025-05-21 05:43:31] Found 1 items for order #46
+[2025-05-21 05:43:35] Kitchen orders API called
+[2025-05-21 05:43:35] Found 1 orders
+[2025-05-21 05:43:35] Processing order #46
+[2025-05-21 05:43:35] Found 1 items for order #46
+[2025-05-21 05:43:36] Kitchen orders API called
+[2025-05-21 05:43:36] Found 1 orders
+[2025-05-21 05:43:36] Processing order #46
+[2025-05-21 05:43:36] Found 1 items for order #46
+[2025-05-21 05:43:40] Kitchen orders API called
+[2025-05-21 05:43:40] Found 1 orders
+[2025-05-21 05:43:40] Processing order #46
+[2025-05-21 05:43:40] Found 1 items for order #46
+[2025-05-21 05:43:41] Kitchen orders API called
+[2025-05-21 05:43:41] Found 1 orders
+[2025-05-21 05:43:41] Processing order #46
+[2025-05-21 05:43:41] Found 1 items for order #46
+[2025-05-21 05:43:45] Kitchen orders API called
+[2025-05-21 05:43:45] Found 1 orders
+[2025-05-21 05:43:45] Processing order #46
+[2025-05-21 05:43:45] Found 1 items for order #46
+[2025-05-21 05:43:46] Kitchen orders API called
+[2025-05-21 05:43:46] Found 1 orders
+[2025-05-21 05:43:46] Processing order #46
+[2025-05-21 05:43:46] Found 1 items for order #46
+[2025-05-21 13:31:38] Kitchen orders API called
+[2025-05-21 13:31:38] Found 1 orders
+[2025-05-21 13:31:38] Processing order #46
+[2025-05-21 13:31:38] Found 1 items for order #46
+[2025-05-21 13:31:43] Kitchen orders API called
+[2025-05-21 13:31:43] Found 0 orders
+[2025-05-21 13:31:48] Kitchen orders API called
+[2025-05-21 13:31:48] Found 0 orders
+[2025-05-21 13:31:53] Kitchen orders API called
+[2025-05-21 13:31:53] Found 0 orders
+[2025-05-21 13:31:59] Kitchen orders API called
+[2025-05-21 13:31:59] Found 0 orders
+[2025-05-21 13:32:03] Kitchen orders API called
+[2025-05-21 13:32:03] Found 0 orders
+[2025-05-21 13:32:08] Kitchen orders API called
+[2025-05-21 13:32:08] Found 0 orders
+[2025-05-21 13:32:13] Kitchen orders API called
+[2025-05-21 13:32:13] Found 0 orders
+[2025-05-21 13:32:18] Kitchen orders API called
+[2025-05-21 13:32:18] Found 0 orders
+[2025-05-21 13:32:23] Kitchen orders API called
+[2025-05-21 13:32:23] Found 0 orders
+[2025-05-21 13:32:28] Kitchen orders API called
+[2025-05-21 13:32:28] Found 0 orders
+[2025-05-21 13:32:33] Kitchen orders API called
+[2025-05-21 13:32:33] Found 0 orders
+[2025-05-21 13:32:38] Kitchen orders API called
+[2025-05-21 13:32:38] Found 0 orders
+[2025-05-21 13:32:44] Kitchen orders API called
+[2025-05-21 13:32:44] Found 0 orders
+[2025-05-21 13:32:48] Kitchen orders API called
+[2025-05-21 13:32:48] Found 0 orders
+[2025-05-21 13:32:55] Kitchen orders API called
+[2025-05-21 13:32:55] Found 0 orders
+[2025-05-21 13:32:58] Kitchen orders API called
+[2025-05-21 13:32:58] Found 0 orders
+[2025-05-21 13:33:03] Kitchen orders API called
+[2025-05-21 13:33:03] Found 0 orders
+[2025-05-21 13:33:08] Kitchen orders API called
+[2025-05-21 13:33:08] Found 0 orders
+[2025-05-21 13:33:13] Kitchen orders API called
+[2025-05-21 13:33:13] Found 0 orders
+[2025-05-21 13:33:18] Kitchen orders API called
+[2025-05-21 13:33:18] Found 0 orders
+[2025-05-21 13:33:23] Kitchen orders API called
+[2025-05-21 13:33:23] Found 0 orders
+[2025-05-21 13:33:28] Kitchen orders API called
+[2025-05-21 13:33:28] Found 0 orders
+[2025-05-21 13:33:33] Kitchen orders API called
+[2025-05-21 13:33:33] Found 0 orders
+[2025-05-21 13:33:38] Kitchen orders API called
+[2025-05-21 13:33:38] Found 0 orders
+[2025-05-21 13:33:43] Kitchen orders API called
+[2025-05-21 13:33:43] Found 0 orders
+[2025-05-21 13:33:48] Kitchen orders API called
+[2025-05-21 13:33:48] Found 0 orders
+[2025-05-21 13:33:53] Kitchen orders API called
+[2025-05-21 13:33:53] Found 0 orders
+[2025-05-21 13:33:58] Kitchen orders API called
+[2025-05-21 13:33:58] Found 0 orders
+[2025-05-21 13:34:03] Kitchen orders API called
+[2025-05-21 13:34:03] Found 0 orders
+[2025-05-21 13:34:08] Kitchen orders API called
+[2025-05-21 13:34:08] Found 0 orders
+[2025-05-21 13:34:13] Kitchen orders API called
+[2025-05-21 13:34:13] Found 0 orders
+[2025-05-21 13:34:18] Kitchen orders API called
+[2025-05-21 13:34:18] Found 0 orders
+[2025-05-21 13:34:23] Kitchen orders API called
+[2025-05-21 13:34:23] Found 0 orders
+[2025-05-21 13:34:28] Kitchen orders API called
+[2025-05-21 13:34:28] Found 0 orders
+[2025-05-21 13:34:33] Kitchen orders API called
+[2025-05-21 13:34:33] Found 0 orders
+[2025-05-21 13:34:38] Kitchen orders API called
+[2025-05-21 13:34:38] Found 0 orders
+[2025-05-21 13:34:43] Kitchen orders API called
+[2025-05-21 13:34:43] Found 0 orders
+[2025-05-21 13:34:48] Kitchen orders API called
+[2025-05-21 13:34:48] Found 0 orders
+[2025-05-21 13:34:53] Kitchen orders API called
+[2025-05-21 13:34:53] Found 0 orders
+[2025-05-21 13:34:58] Kitchen orders API called
+[2025-05-21 13:34:58] Found 0 orders
+[2025-05-21 13:35:03] Kitchen orders API called
+[2025-05-21 13:35:03] Found 0 orders
+[2025-05-21 13:35:09] Kitchen orders API called
+[2025-05-21 13:35:09] Found 0 orders
+[2025-05-21 13:35:13] Kitchen orders API called
+[2025-05-21 13:35:13] Found 0 orders
+[2025-05-21 13:35:18] Kitchen orders API called
+[2025-05-21 13:35:18] Found 0 orders
+[2025-05-21 13:35:23] Kitchen orders API called
+[2025-05-21 13:35:23] Found 0 orders
+[2025-05-21 13:35:28] Kitchen orders API called
+[2025-05-21 13:35:28] Found 0 orders
+[2025-05-21 13:35:33] Kitchen orders API called
+[2025-05-21 13:35:33] Found 0 orders
+[2025-05-21 13:35:38] Kitchen orders API called
+[2025-05-21 13:35:38] Found 0 orders
+[2025-05-21 13:35:43] Kitchen orders API called
+[2025-05-21 13:35:43] Found 0 orders
+[2025-05-21 13:35:48] Kitchen orders API called
+[2025-05-21 13:35:48] Found 0 orders
+[2025-05-21 13:35:53] Kitchen orders API called
+[2025-05-21 13:35:53] Found 0 orders
+[2025-05-21 13:35:58] Kitchen orders API called
+[2025-05-21 13:35:58] Found 0 orders
+[2025-05-21 13:36:03] Kitchen orders API called
+[2025-05-21 13:36:03] Found 0 orders
+[2025-05-21 13:36:08] Kitchen orders API called
+[2025-05-21 13:36:08] Found 0 orders
+[2025-05-21 13:36:13] Kitchen orders API called
+[2025-05-21 13:36:13] Found 0 orders
+[2025-05-21 13:36:18] Kitchen orders API called
+[2025-05-21 13:36:18] Found 0 orders
+[2025-05-21 13:36:23] Kitchen orders API called
+[2025-05-21 13:36:23] Found 0 orders
+[2025-05-21 13:36:28] Kitchen orders API called
+[2025-05-21 13:36:28] Found 0 orders
+[2025-05-21 13:36:33] Kitchen orders API called
+[2025-05-21 13:36:33] Found 0 orders
+[2025-05-21 13:36:38] Kitchen orders API called
+[2025-05-21 13:36:38] Found 0 orders
+[2025-05-21 13:36:43] Kitchen orders API called
+[2025-05-21 13:36:43] Found 0 orders
+[2025-05-21 13:36:48] Kitchen orders API called
+[2025-05-21 13:36:48] Found 0 orders
+[2025-05-21 13:36:53] Kitchen orders API called
+[2025-05-21 13:36:53] Found 0 orders
+[2025-05-21 13:36:58] Kitchen orders API called
+[2025-05-21 13:36:58] Found 0 orders
+[2025-05-21 13:37:03] Kitchen orders API called
+[2025-05-21 13:37:03] Found 0 orders
+[2025-05-21 13:37:08] Kitchen orders API called
+[2025-05-21 13:37:08] Found 0 orders
+[2025-05-21 13:37:13] Kitchen orders API called
+[2025-05-21 13:37:13] Found 0 orders
+[2025-05-21 13:37:18] Kitchen orders API called
+[2025-05-21 13:37:18] Found 0 orders
+[2025-05-21 13:37:23] Kitchen orders API called
+[2025-05-21 13:37:23] Found 0 orders
+[2025-05-21 13:37:28] Kitchen orders API called
+[2025-05-21 13:37:28] Found 0 orders
+[2025-05-21 13:37:33] Kitchen orders API called
+[2025-05-21 13:37:33] Found 0 orders
+[2025-05-21 13:37:38] Kitchen orders API called
+[2025-05-21 13:37:38] Found 0 orders
+[2025-05-21 13:37:43] Kitchen orders API called
+[2025-05-21 13:37:43] Found 0 orders
+[2025-05-21 13:37:48] Kitchen orders API called
+[2025-05-21 13:37:48] Found 0 orders
+[2025-05-21 13:37:53] Kitchen orders API called
+[2025-05-21 13:37:53] Found 0 orders
+[2025-05-21 13:37:58] Kitchen orders API called
+[2025-05-21 13:37:58] Found 0 orders
+[2025-05-21 13:38:03] Kitchen orders API called
+[2025-05-21 13:38:03] Found 0 orders
+[2025-05-21 13:38:08] Kitchen orders API called
+[2025-05-21 13:38:08] Found 0 orders
+[2025-05-21 13:38:13] Kitchen orders API called
+[2025-05-21 13:38:13] Found 0 orders
+[2025-05-21 13:38:18] Kitchen orders API called
+[2025-05-21 13:38:18] Found 0 orders
+[2025-05-21 13:38:23] Kitchen orders API called
+[2025-05-21 13:38:23] Found 0 orders
+[2025-05-21 13:38:28] Kitchen orders API called
+[2025-05-21 13:38:28] Found 0 orders

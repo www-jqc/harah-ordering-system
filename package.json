@@ -1,0 +1,16 @@
+{
+  "name": "harah-websocket-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for Harah kitchen and waiter mobile app",
+  "main": "websocket_server.js",
+  "scripts": {
+    "start": "node websocket_server.js",
+    "dev": "nodemon websocket_server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+} 

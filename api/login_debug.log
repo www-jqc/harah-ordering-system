@@ -1,0 +1,6 @@
+2025-05-16 03:56:19 - {"request_method":"POST","post_data":{"username":"clemens","password":"password123","role":"KITCHEN,WAITER"},"raw_input":""}
+2025-05-16 03:56:19 - Attempting login for: clemens with roles: KITCHEN,WAITER
+2025-05-16 03:56:19 - {"request_method":"POST","post_data":{"username":"clemens","password":"password123","role":"KITCHEN,WAITER"},"raw_input":""}
+2025-05-16 03:56:19 - Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'e.user_id' in 'on clause'
+2025-05-16 03:56:19 - Attempting login for: clemens with roles: KITCHEN,WAITER
+2025-05-16 03:56:19 - Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'e.user_id' in 'on clause'
